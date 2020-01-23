@@ -40,7 +40,7 @@
   <title>Music Syndicate | Basspistol</title>
   <!-- Standard SEO -->
   <meta name="title" content="Music Syndicate, Basspistol">
-  <meta name="dc.date.modified" scheme="ISO8601" content="2020-01-23T10:03:40+01:00" />
+  <meta name="dc.date.modified" scheme="ISO8601" content="2020-01-23T10:16:06+01:00" />
   <meta name='robots' content='index'/>
   <meta charset="utf-8" />
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -190,7 +190,7 @@
       "inLanguage": "en_us",
       "headline": "The Outernational Music Syndicate. Established in 2010",
       "dateCreated": "",
-      "dateModified": "2020-01-23T10:03:40+01:00",
+      "dateModified": "2020-01-23T10:16:06+01:00",
       "datePublished": "",
       "copyrightYear": "2020",
       "author": {
@@ -305,10 +305,10 @@
         output = "<p>" + "Now Playing: " + "</p>";
         output += "<p><strong>" + json.icestats.source[1].title + "</strong> <br />by<br /><strong>" + json.icestats.source[1].artist + "</strong></p>";
         output += "<p>";
-        output += json.icestats.source[0].listeners + " peers are listening in <a href='https://radio.basspistol.com/radio.mp3.m3u'>MP3</a>";
+        output += json.icestats.source[0].listeners + " peers are listening in MP3";
         output += "</p>";
         output += "<p>";
-        output += json.icestats.source[1].listeners + " peers are listening in <a href='https://radio.basspistol.com/radio.ogg.m3u'>OGG</a>";
+        output += json.icestats.source[1].listeners + " peers are listening in OGG";
         output += "</p>";
         document.getElementById("radioPlaceholder").innerHTML=output;
       });
@@ -392,8 +392,7 @@
         <h1>RADIO</h1>
         <button id="mu_pause">Play</button>
         <div id="radioPlaceholder"></div>  
-        <h2>Radio under maintenance.</h2>
-        <p>Hopefully back soon.</p> 
+        <p><b>Noscript friendly version and M3U <a href="./radio/">here</a></b></p>
       </div>
   <div id="footer" class="editable" data-cms-source="/_includes/footer.html" data-cms-index="0">
     <p>Basspistol Outernational Music Syndicate 2010-&dagger;
