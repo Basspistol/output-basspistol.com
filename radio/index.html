@@ -82,7 +82,32 @@
 <meta name="twitter:description" content="Basspistol Radio Station! 777% without commercials! RobotDJ-sets and live interventions! This is the sound of freedom." />
 <meta name="twitter:image" content="https://basspistol.com/assets/vid/radio.jpg" />
 
-<!-- END seo.html -->
+
+
+
+
+<script type='application/ld+json'>
+  {
+    "@context": "http://www.schema.org",
+    "@type": "Organization",
+    "name": "Basspistol",
+    "url": "https://basspistol.com",
+    "sameAs": [
+    "https://www.instagram.com/basspistol","https://twitter.com/bpist","https://www.facebook.com/basspistolQC","https://soundcloud.com/basspistol","https://basspistol.tumblr.com","https://archive.org/details/basspistol","https://mastodon.art/@basspistol","https://shop.basspistol.com/"
+    ],
+    "logo": "https://basspistol.com/assets/img/basspistol_est_2010_square_bluegreen.jpg",
+    "image": "https://basspistol.com/assets/img/basspistol_est_2010_square_bluegreen.jpg",
+    "description": "The Outernational Music Syndicate. Established in 2010",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Geneva",
+      "addressRegion": "CH-GE",
+      "postalCode": "1201",
+      "addressCountry": "Switzerland"
+    }
+  }
+</script>
+
 
 
 
@@ -92,40 +117,42 @@
     "@type": "RadioStation",
     "name": "Basspistol Libre Radio",
     "url": "https://basspistol.com/radio",
-    "logo": "https://basspistol.com/assets/img/basspistol_est_2010_square_bluegreen.jpg",
-    "image": "https://basspistol.com/assets/img/basspistol_est_2010_square_bluegreen.jpg",
+    "logo": "https://basspistol.com/siteicon.png",
+    "image": "https://basspistol.com/siteicon.png",
     "description": "Unexpected and Impossible Music. Live interventions and special guests. This is Libre music!",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Geneva",
-      "addressRegion": "Geneva",
+      "addressRegion": "CH-GE",
       "postalCode": "1201",
       "addressCountry": "Switzerland"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": "46.204391",
-      "longitude": "6.143158"
+      "latitude": "46.203918",
+      "longitude": "6.133011"
     }
   }
-   </script>
-   <script type="text/javascript">
-    function getData() {
-      $.getJSON('https://radio.basspistol.com/status-json.xsl', function(json) {
-          output = "<p>" + "<span style='font-size:14px;'>Now Playing:</span> " + "<br/>";
-          output += "<strong>" + json.icestats.source[1].title + "</strong> by <strong>" + json.icestats.source[1].artist + "</strong></p>";
-          output += "<p style='font-size:14px;'>" + json.icestats.source[0].listeners + " peers are listening in MP3 <br />";
-          output += json.icestats.source[1].listeners + " peers are listening in OGG</p>";
-          document.getElementById("radioPlaceholder").innerHTML=output;
-        });
-    }
-    setInterval(getData, 7000);
-
-    $(function() {
-        getData();
-    });
   </script>
+  <script type="text/javascript">
+  function getData() {
+    $.getJSON('https://radio.basspistol.com/status-json.xsl', function(json) {
+        output = "<p>" + "<span style='font-size:14px;'>Now Playing:</span> " + "<br/>";
+        output += "<strong>" + json.icestats.source[1].title + "</strong> by <strong>" + json.icestats.source[1].artist + "</strong></p>";
+        output += "<p style='font-size:14px;'>" + json.icestats.source[0].listeners + " peers are listening in MP3 <br />";
+        output += json.icestats.source[1].listeners + " peers are listening in OGG</p>";
+        document.getElementById("radioPlaceholder").innerHTML=output;
+      });
+  }
+  setInterval(getData, 7000);
+
+  $(function() {
+      getData();
+  });
+</script>
    
+
+   <!-- END seo.html -->
 
 
 
