@@ -163,7 +163,7 @@ body.is-preload .banner.onload-image-fade-in .image img { opacity: 1; }
 
 .logo:hover { filter: blur(0px); -webkit-transition: filter 400ms ease-in; -moz-transition: filter 400ms ease-in; transition: filter 400ms ease-in; }
 
-.logo { filter: blur(2px); text-decoration: none; position: fixed; top: 20px; left: 50%; transform: translateX(-50%); width: 300px; height: 95px; background-color: transparent; background-repeat: no-repeat; background-position: center center; background-size: 95% 95%; -webkit-transition: all 400ms ease-in; -moz-transition: all 400ms ease-in; transition: all 400ms ease-in; box-shadow: none; border-radius: 20px; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; }
+.logo { filter: blur(20px); text-decoration: none; position: fixed; top: 20px; left: 50%; transform: translateX(-50%); width: 300px; height: 95px; background-color: transparent; background-repeat: no-repeat; background-position: center center; background-size: 95% 95%; -webkit-transition: all 400ms ease-in; -moz-transition: all 400ms ease-in; transition: all 400ms ease-in; box-shadow: none; border-radius: 20px; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; }
 
 .sticky { filter: blur(0px); -webkit-transition: filter 400ms ease-in; -moz-transition: filter 400ms ease-in; transition: filter 400ms ease-in; background-repeat: no-repeat; background-position: center center; background-size: 95% 95%; -webkit-transition: all 400ms ease-in; -moz-transition: all 400ms ease-in; transition: all 400ms ease-in; }
 
