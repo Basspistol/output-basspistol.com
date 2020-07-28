@@ -140,14 +140,13 @@
 <section
   class="banner onload-image-fade-in onload-content-fade-right style3 fullscreen content-align-center image-position-center" style="background-image:url('https://media.basspistol.com/basspistol.com/tfb-otk/9-computer-voodoo.jpeg');background-size: cover; background-repeat: no-repeat;">
   <div style="z-index:0;position:absolute; top:0; left:0; width:100%;min-height:100%;background-color: rgba(13, 13 ,13, 0.5);"></div>
-  <div class="content" style="z-index:1">
+  <div id="mainwrap" class="content" style="z-index:1">
     <h1 style="margin-top:80px">Computer Voodoo</h1>
     <p><strong>≠Electronic</strong> by <strong>The Fraglebay</strong>
       <br />2013
     </p>
 
     <p><strong><span id="tracktime"></span></strong><span id="computervoodoo"></span></strong></p> 
-        
     
       <script type="text/javascript">
         var computervoodootimestamp = 344;
@@ -158,10 +157,21 @@
         var theSpan = document.getElementById("computervoodoo");
         theSpan.innerHTML = computervoodooformatted;
       </script>
-
  
     <ul class="actions stacked">
       <li><button id="mu_pause" class="button icon solid fa-play">Play dat!</button></li>
+    </ul>
+  </div>
+  <div id="noJSalbum" class="content" style="z-index:1">
+    <h1 style="margin-top:80px">Computer Voodoo</h1>
+    <p><strong>≠Electronic</strong> by <strong>The Fraglebay</strong>
+      <br />2013
+    </p>
+
+    <p><strong>5:44</strong></p> 
+        
+    <ul class="actions stacked">
+      <li><a class="button icon solid fa-play" target="_blank" rel="noopener" href="https://media.basspistol.com/basspistol.com/tfb-otk/9-computer-voodoo.mp3">Play dat!</a></li>
     </ul>
   </div>
 
@@ -196,11 +206,51 @@
 </div>
 </header>
         <!-- Content -->
-        
+        <div class="content">
+          
+          <p>
+            
+          </p>
+        </div>
       </section>
     </div>
   </div>
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <section class="streambox" style="padding: 40px;">
 
@@ -282,6 +332,24 @@
 
 
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Page navigation -->
 <section class="wrapper style1 align-center">
   <div class="inner">
@@ -298,15 +366,15 @@
           <div class="post-nav">
             <div>
               
-              <h4><a href="../../../tracks/tfb-otk/8-nuffsaid-vonfragle/" alt="Read Nuffsaid VonFragle" title="Read Nuffsaid VonFragle"><i class="fas fa-arrow-left"></i></a> <a
-                  href="../../../tracks/tfb-otk/8-nuffsaid-vonfragle/">&nbsp;Nuffsaid VonFragle</a>
+              <h4><a href="../../../albums/tfb-otk/8-nuffsaid-vonfragle/" alt="Read Nuffsaid VonFragle" title="Read Nuffsaid VonFragle"><i class="fas fa-arrow-left"></i></a> <a
+                  href="../../../albums/tfb-otk/8-nuffsaid-vonfragle/">&nbsp;Nuffsaid VonFragle</a>
               </h4>
               
             </div>
             <div class="post-nav-next">
               
-              <h4><a href="../../../tracks/tfb-otk/10-tfb-otk/">&nbsp;TFB OTK</a> <a
-                  href="../../../tracks/tfb-otk/10-tfb-otk/" alt="Read TFB OTK" title="Read TFB OTK"><i class="fas fa-arrow-right"></i></a></h4>
+              <h4><a href="../../../albums/tfb-otk/10-tfb-otk/">&nbsp;TFB OTK</a> <a
+                  href="../../../albums/tfb-otk/10-tfb-otk/" alt="Read TFB OTK" title="Read TFB OTK"><i class="fas fa-arrow-right"></i></a></h4>
               
             </div>
           </div>
@@ -472,7 +540,7 @@
     // only functional if "loop" is removed
     mu.pause();
     mu.currentTime = 0;
-    loadUrl("../../../tracks/tfb-otk/10-tfb-otk/"); return false;
+    loadUrl("../../../albums/tfb-otk/10-tfb-otk/"); return false;
   });
   mu.onplaying = function() {
     pauseButton.innerHTML = "Pause";

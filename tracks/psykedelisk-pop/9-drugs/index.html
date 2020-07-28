@@ -140,14 +140,13 @@
 <section
   class="banner onload-image-fade-in onload-content-fade-right style3 fullscreen content-align-center image-position-center" style="background-image:url('https://media.basspistol.com/basspistol.com/psykedelisk-pop/9-drugs.jpeg');background-size: cover; background-repeat: no-repeat;">
   <div style="z-index:0;position:absolute; top:0; left:0; width:100%;min-height:100%;background-color: rgba(13, 13 ,13, 0.5);"></div>
-  <div class="content" style="z-index:1">
+  <div id="mainwrap" class="content" style="z-index:1">
     <h1 style="margin-top:80px">Drugs</h1>
     <p><strong></strong> by <strong>reSet Sakrecoer</strong>
       <br />2010
     </p>
 
     <p><strong><span id="tracktime"></span></strong><span id="drugs"></span></strong></p> 
-        
     
       <script type="text/javascript">
         var drugstimestamp = 230;
@@ -158,10 +157,21 @@
         var theSpan = document.getElementById("drugs");
         theSpan.innerHTML = drugsformatted;
       </script>
-
  
     <ul class="actions stacked">
       <li><button id="mu_pause" class="button icon solid fa-play">Play dat!</button></li>
+    </ul>
+  </div>
+  <div id="noJSalbum" class="content" style="z-index:1">
+    <h1 style="margin-top:80px">Drugs</h1>
+    <p><strong></strong> by <strong>reSet Sakrecoer</strong>
+      <br />2010
+    </p>
+
+    <p><strong>3:50</strong></p> 
+        
+    <ul class="actions stacked">
+      <li><a class="button icon solid fa-play" target="_blank" rel="noopener" href="https://media.basspistol.com/basspistol.com/psykedelisk-pop/9-drugs.mp3">Play dat!</a></li>
     </ul>
   </div>
 
@@ -196,10 +206,9 @@
 </div>
 </header>
         <!-- Content -->
-        
         <div class="content">
-          <h2>Lyrics</h2>
-          <p style="font-family: monospace;font-size:16px;">
+          
+          <p style="font-size:16px;">
             Och jag vill gärna trippa,<br />
 Och släppa själen fri.<br />
 Och jag vill gärna flippa,<br />
@@ -211,15 +220,66 @@ Sluta upp med allt,<br />
 Och ha dig här bredvid.<br />
 Åtminstone närmare i mitt revir.
           </p>
-          <p>credits:
+          
+          <p>
             Visit http://shop.basspistol.com
           </p>
         </div>
-        
       </section>
     </div>
   </div>
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <section class="streambox" style="padding: 40px;">
 
@@ -329,6 +389,8 @@ Och ha dig här bredvid.<br />
 
 
 </section>
+
+
 <!-- Page navigation -->
 <section class="wrapper style1 align-center">
   <div class="inner">
@@ -345,15 +407,15 @@ Och ha dig här bredvid.<br />
           <div class="post-nav">
             <div>
               
-              <h4><a href="../../../tracks/psykedelisk-pop/8-invitation-to-dance/" alt="Read Invitation To Dance" title="Read Invitation To Dance"><i class="fas fa-arrow-left"></i></a> <a
-                  href="../../../tracks/psykedelisk-pop/8-invitation-to-dance/">&nbsp;Invitation To Dance</a>
+              <h4><a href="../../../albums/psykedelisk-pop/8-invitation-to-dance/" alt="Read Invitation To Dance" title="Read Invitation To Dance"><i class="fas fa-arrow-left"></i></a> <a
+                  href="../../../albums/psykedelisk-pop/8-invitation-to-dance/">&nbsp;Invitation To Dance</a>
               </h4>
               
             </div>
             <div class="post-nav-next">
               
-              <h4><a href="../../../tracks/psykedelisk-pop/10-hidden-track/">&nbsp;Hidden Track</a> <a
-                  href="../../../tracks/psykedelisk-pop/10-hidden-track/" alt="Read Hidden Track" title="Read Hidden Track"><i class="fas fa-arrow-right"></i></a></h4>
+              <h4><a href="../../../albums/psykedelisk-pop/10-hidden-track/">&nbsp;Hidden Track</a> <a
+                  href="../../../albums/psykedelisk-pop/10-hidden-track/" alt="Read Hidden Track" title="Read Hidden Track"><i class="fas fa-arrow-right"></i></a></h4>
               
             </div>
           </div>
@@ -547,7 +609,7 @@ Och ha dig här bredvid.<br />
     // only functional if "loop" is removed
     mu.pause();
     mu.currentTime = 0;
-    loadUrl("../../../tracks/psykedelisk-pop/10-hidden-track/"); return false;
+    loadUrl("../../../albums/psykedelisk-pop/10-hidden-track/"); return false;
   });
   mu.onplaying = function() {
     pauseButton.innerHTML = "Pause";
