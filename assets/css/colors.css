@@ -1,0 +1,13 @@
+:root {
+--bg: rgb(27, 34, 65);
+--bg-alt: rgba(27, 34, 65, 0.95);
+--fg: rgba(178, 211, 168, 1);
+--fg-alt: rgba(178, 211, 168, 0.75);
+--border: rgb(33, 42, 24);
+--border-alt: rgba(33, 42, 24, 0.75);
+--accent1: rgba(237, 229, 166, 1);
+--accent1-alt: rgba(237, 229, 166, 0.75);
+--accent2: rgba(82, 183, 136, 1);
+--accent2-alt: rgba(82, 183, 136, 0.75);
+
+}

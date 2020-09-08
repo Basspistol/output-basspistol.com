@@ -1,12 +1,12 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <!--
-  Based on _Story_ by html5up.net | @ajlkn
+  Publikatorized by Sakrecoer
   Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-  Remixed and Jekyllified by Setto
 -->
-<html lang="en">
+<html lang="">
 <head>
-
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <!-- 
 ..............................................  
 .............................................. 
@@ -38,9 +38,9 @@
 <title>Music Syndicate | Basspistol</title>
 <meta name="title" content="Music Syndicate | Basspistol" />
 <meta name="description" content="Homepage of Basspistol, The Outernational Music Syndicate established in 2010. The underground is dead, Long Live the Underground!" />
-<meta name="dc.date.modified" scheme="ISO8601" content="2020-08-26T15:39:15+00:00" />
+<meta name="dc.date.modified" scheme="ISO8601" content="2020-09-08T20:55:35+00:00" />
 <meta name="robots" content="index" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
 <link rel="canonical" href="https://basspistol.com/" />
 <link rel="alternate" hreflang="x-default" href="https://basspistol.com/" />
 <meta name="geo.region" content="CH-GE" />
@@ -62,7 +62,7 @@
 <meta name="dcterms.Subject" content="Homepage of Basspistol, The Outernational Music Syndicate established in 2010. The underground is dead, Long Live the Underground!" />
 <meta name="dcterms.Title" content="Music Syndicate" />
 <meta name="dcterms.Contributor" content="Basspistol" />
-<meta name="dcterms.Date" content="2020-08-26" />
+<meta name="dcterms.Date" content="2020-09-08" />
 <meta name="dcterms.Description" content="Homepage of Basspistol, The Outernational Music Syndicate established in 2010. The underground is dead, Long Live the Underground!" />
 
 <!-- Facebook -->
@@ -73,12 +73,12 @@
 <meta property="og:url" content="https://basspistol.com/" />
 <meta property="og:site_name" content="Basspistol" />
 <meta property="og:type" content="webpage" />
-<meta property="article:published_time" content="2020-08-26T15:39:15+00:00" />
+<meta property="article:published_time" content="2020-09-08T20:55:35+00:00" />
 <meta property="og:image" content="https://basspistol.com/assets/vid/intro_loop_.jpg" />
 <!-- Twitter Card -->
 
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="index.html | Basspistol" />
+<meta name="twitter:title" content="Music Syndicate | Basspistol" />
 <meta name="twitter:description" content="Homepage of Basspistol, The Outernational Music Syndicate established in 2010. The underground is dead, Long Live the Underground!" />
 <meta name="twitter:image" content="https://basspistol.com/assets/vid/intro_loop_.jpg" />
 
@@ -95,8 +95,8 @@
     "sameAs": [
     "https://www.instagram.com/basspistol","https://twitter.com/bpist","https://www.facebook.com/basspistolQC","https://soundcloud.com/basspistol","https://basspistol.tumblr.com","https://archive.org/details/basspistol","https://mastodon.art/@basspistol","https://shop.basspistol.com/"
     ],
-    "logo": "https://basspistol.com/assets/img/basspistol_est_2010_square_bluegreen.jpg",
-    "image": "https://basspistol.com/assets/img/basspistol_est_2010_square_bluegreen.jpg",
+    "logo": "https://basspistol.com/siteicon.png",
+    "image": "https://basspistol.com/assets/vid/intro_loop_.jpg",
     "description": "The Outernational Music Syndicate. Established in 2010",
     "address": {
       "@type": "PostalAddress",
@@ -109,628 +109,822 @@
 </script>
 
 
-
-
-<script type='application/ld+json'>
-  {
-    "@context": "http://www.schema.org",
-    "@type": "RadioStation",
-    "name": "Basspistol Libre Radio",
-    "url": "https://basspistol.com/radio",
-    "logo": "https://basspistol.com/siteicon.png",
-    "image": "https://basspistol.com/siteicon.png",
-    "description": "Unexpected and Impossible Music. Live interventions and special guests. This is Libre music!",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Geneva",
-      "addressRegion": "CH-GE",
-      "postalCode": "1201",
-      "addressCountry": "Switzerland"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": "46.203918",
-      "longitude": "6.133011"
-    }
-  }
-  </script>
-  <script type="text/javascript">
-  function getData() {
-    $.getJSON('https://radio.basspistol.com/status-json.xsl', function(json) {
-        output = "<p>" + "<span style='font-size:14px;'>Now Playing:</span> " + "<br/>";
-        output += "<strong>" + json.icestats.source[1].title + "</strong> by <strong>" + json.icestats.source[1].artist + "</strong></p>";
-        output += "<p style='font-size:14px;'>" + json.icestats.source[0].listeners + " peers are listening in MP3 <br />";
-        output += json.icestats.source[1].listeners + " peers are listening in OGG</p>";
-        document.getElementById("radioPlaceholder").innerHTML=output;
-      });
-  }
-  setInterval(getData, 7000);
-
-  $(function() {
-      getData();
-  });
-</script>
-   
-
+<link rel="alternate" type="application/rss+xml" href="https://basspistol.com/feed.xml" title="Basspistol" />
    <!-- END seo.html -->
 
 
 
 
-<meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
-<link rel="stylesheet" href="./assets/css/main20200710.css" />
-
-<link rel="apple-touch-icon" href="https://basspistol.com/apple-touch-icon.png" />
-<link rel="icon" type="image/png" href="https://basspistol.com/touch-icon.png" sizes="192x192" />
+<link rel="stylesheet" href="./assets/css/all.min.css" />
+<link rel="stylesheet" href="./assets/css/colors.css" />
+<link rel="stylesheet" href="./assets/css/main-20200812.css" />
+<link rel="apple-touch-icon" href="https://basspistol.com/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="https://basspistol.com/touch-icon.png" sizes="192x192">
 <link rel="shortcut icon" href="https://basspistol.com/siteicon.png" type="image/png" />
-<noscript><link rel="stylesheet" href="./assets/css/noscript20200710.css" /></noscript>
+<noscript><link rel="stylesheet" href="./assets/css/noscripts-20200812.css" /></noscript>
+
+<meta name="theme-color" content=""/>
+
+
+
 </head>
 
-<body id="body">
-  <span id="top" style="display: none;"></span>
-  <!-- Wrapper -->
-  <div id="wrapper" class="divided" data-cms-content-wrapper="/_layouts/default.html">
-    
+<body>
+<!-- Wrapper -->
+
+<div id="main-wrapper">
 
 
 
-<!-- Banner -->
-<section
-  class="banner onload-image-fade-in onload-content-fade-right style5 fullscreen content-align-center image-position-center;"
-  style="background-size:cover;background-repeat:no-repeat;background-position: center;min-height: 100vh;">
-  <div
-    style="z-index:0;position:absolute; top:0; left:0; width:100%;min-height:100%;background-color: rgba(13, 13 ,13, 0.5);">
+
+
+
+<header class="hero" id="top"
+  style="">
+  <div class="imagecontainer">
+    <h4>Music Syndicate</h4>
   </div>
-  <div class="content" style="z-index:1">
-    <h1 style="margin-top:80px">Music Syndicate</h1>
 
+
+</header>
+<section class="splash">
+<div class="container">
+  <div class="splash-logo">
+    <img src="/siteicon.png" width="240px" alt="Basspistol Logo" />
+  </div>
+  <div>
+
+    <h1>Basspistol</h1>
     <p>Homepage of Basspistol, The Outernational Music Syndicate established in 2010. The underground is dead, Long Live the Underground!</p>
-    <ul class="actions stacked">
-      <li><a href="#music" class="button small smooth-scroll">Gimme Music!</a></li>
-    </ul>
+    <p><a href="/radio/" class="button">📻 Radio App</a></p>
   </div>
+</div>
+</section>
 
-  <div class="image">
-    <img src="./siteicon.png" alt="Basspistol logo" />
+<section class="section-title">
+  <div class="container">
+    <h2>Latest News</h2>
   </div>
 </section>
 
-<!-- Radio -->
-<section
-  id="music"
-  class="banner onload-image-fade-in onload-content-fade-right style3 fullscreen content-align-left image-position-center">
-  <div style="z-index:0;position:absolute; top:0; left:0; width:100%;min-height:100%;"></div>
+
+<section class="front-section">
+
+  <div style="background-image:url(/assets/img/Screenshot-at-2019-04-02-17-42-40.png)">
+    <p class="editor-link"><a href="cloudcannon:collections/_posts/_posts/2019-04-02-spark-master-tape.md" rel="nofollow"
+        class="btn"><strong>&#9998;</strong> Edit Posy</a></p>
+  </div>
+  <div class="description">
+    <div class="container">
+      <div class="">
+        <h3>Spark Master Tape</h3>
+        Paperplattunes and the uncertain future of free publications implicating links to data in a semi-regulated data-market is kinda uncertain #SWOUP
+      </div>
+     
+      <div>
+        <p><a class="button" href="./highlights/spark-master-tape/">Read Highlight</a></p>
+      </div>
   
-  <div id="mainwrap" class="content" style="z-index:1">
-    <h1 style="margin-top:80px">Radio</h1>
-    <div id="radioPlaceholder"></div> 
-    <p><strong><span id="tracktime"></span></strong><br /></p>
-
-
- 
-    <ul class="actions stacked">
-      <li><button id="mu_pause" class="button small icon solid fa-play">Play!</button></li>
-    </ul>
+    </div>
   </div>
 
-  <div id="noJSalbum" style="z-index:1000;">
-    <h1 style="margin-top:80px">Radio</h1>
-    <div id="radioPlaceholder"></div> 
-    <p><strong><span id="tracktime"></span></strong><br /></p>
-
-
- 
-  <a href="https://radio.basspistol.com/radio.mp3" id="mu_pause" class="button smaller icon solid fa-play">MP3</a> <a href="https://radio.basspistol.com/radio.ogg" id="mu_pause" class="button smaller icon solid fa-play">OGG</a>
-
-
-
-
-  </div>
-
-  <div class="image">
-    <img src="./assets/vid/radio.jpg" alt="Music Syndicate logo" id="coverart" />
-  </div>
 </section>
 
 
 
-<!-- Audio player-->
+<section class="front-section">
 
-<audio preload="none" data-matomo-title="Basspistol Radio">
-  <source src="https://radio.basspistol.com/radio.mp3" type="audio/mpeg" ontimeupdate='updateTrackTime(this);' />
-  <source src="https://radio.basspistol.com/radio.ogg" type="audio/ogg" ontimeupdate='updateTrackTime(this);' />
-  <h1>Your browser isn't ready for so much hotness. Use the download-link instead.</h1>.
-</audio>
+  <div style="background-image:url(/assets/img/coverartDarkweb_setto.jpg)">
+    <p class="editor-link"><a href="cloudcannon:collections/_posts/_posts/2019-02-09-darkweb.md" rel="nofollow"
+        class="btn"><strong>&#9998;</strong> Edit Posy</a></p>
+  </div>
+  <div class="description">
+    <div class="container">
+      <div class="">
+        <h3>Darkweb</h3>
+        What if there was another space within cyberspace? What if there was a place the strange could call a home?
+      </div>
+     
+      <div>
+        <p><a class="button" href="./highlights/darkweb/">Read Highlight</a></p>
+      </div>
+  
+    </div>
+  </div>
 
-
-<script type="text/javascript">
-  function loadUrl(newLocation) {
-    window.location = newLocation;
-    return false;
-  }
-
-  var mu = document.getElementsByTagName("audio")[0];
-  var pauseButton = document.getElementById("mu_pause");
-  var spincover = document.getElementById("coverart");
-  var links = document.getElementsByTagName('a');
-
-  mu.addEventListener('ended', function () {
-    // only functional if "loop" is removed
-    mu.pause();
-    mu.currentTime = 0;
-    loadUrl(".//"); return false;
-  });
-  mu.onplaying = function() {
-    pauseButton.innerHTML = "Pause";
-    pauseButton.classList.remove("fa-play");
-    pauseButton.classList.add("fa-pause");
-    spincover.classList.add("spinnit");
-    spincover.classList.remove("paused");
-    for (var i=0, len=links.length; i < len; i++) {
-      links[i].target = '_blank';
-    }
-  }; 
-
-  pauseButton.addEventListener("click", function () {
-    if (mu.paused) {
-      mu.play();
-
-    }
-    else {
-      mu.pause();
-      pauseButton.innerHTML = "Resume";
-      pauseButton.classList.add("fa-play");
-      pauseButton.classList.remove("fa-pause");
-      spincover.classList.add("paused");
-
-    }
-  });
-
-  mu.addEventListener('timeupdate', function () {
-    var timestamp = Math.floor(mu.currentTime);
-    var hours = Math.floor(timestamp / 60 / 60);
-    var minutes = Math.floor(timestamp / 60) - (hours * 60);
-    var seconds = timestamp % 60;
-    var formatted = hours.toString().padStart(2, '0') + ':' + minutes.toString().padStart(2, '0') + ':' + seconds.toString().padStart(2, '0');
-    var thecurrentSpan = document.getElementById("tracktime");
-    thecurrentSpan.innerHTML = formatted;
-  });
-
-</script>
-<!-- End Radio -->
-
-
-<section class="streambox" style="padding: 40px;">
-<h2 style="text-align: center;display: block;">Support Basspistol</h2>
-<p>Stream, follow, like and subscribe!</p>
-<div class="streamer">
-
-
-<a onclick="_paq.push(['trackEvent', 'StoreLink', 'Bandcamp']);" target="_blank" rel="noopener" href="https://shop.basspistol.com" alt="Stream from Bandcamp" title="Stream from Bandcamp" class="button small icon brands fa-bandcamp">Bandcamp</a>
-
-
-
-
-
-
-
-
-
-<a onclick="_paq.push(['trackEvent', 'StoreLink', 'Archive.org']);" target="_blank" rel="noopener" href="https://archive.org/details/basspistol" alt="Stream from Archive.org" title="Stream from Archive.org" class="button small icon brands fa-creative-commons-sampling">Archive.org</a>
-
-
-</div>
-<h2 style="text-align: center;display: block;">&nbsp;</h2>
-
-<div class="streamer">
-
-
-
-
-<a onclick="_paq.push(['trackEvent', 'StoreLink', 'Spotify']);" target="_blank" rel="noopener" href="https://open.spotify.com/playlist/5daDKmJZ2aG54MzKO2FxLc" alt="Stream from Spotify" title="Stream from Spotify" class="button small icon brands fa-spotify">Spotify</a>
-
-
-
-<a onclick="_paq.push(['trackEvent', 'StoreLink', 'YouTube']);" target="_blank" rel="noopener" href="https://www.youtube.com/TheBasspistol" alt="Stream from YouTube" title="Stream from YouTube" class="button small icon brands fa-youtube">YouTube</a>
-
-
-
-<a onclick="_paq.push(['trackEvent', 'StoreLink', 'Soundcloud']);" target="_blank" rel="noopener" href="https://soundcloud.com/basspistol" alt="Stream from Soundcloud" title="Stream from Soundcloud" class="button small icon brands fa-soundcloud">Soundcloud</a>
-
-
-
-
-</div>
 </section>
 
 
-<!-- Posts -->
+
+<section class="front-section">
+
+  <div style="background-image:url(/assets/img/2018-setto-single-003-reve_de_toi-117bpm_sqaure_FINAL.jpg)">
+    <p class="editor-link"><a href="cloudcannon:collections/_posts/_posts/2019-01-20-kas-tu-fait-de-nous.md" rel="nofollow"
+        class="btn"><strong>&#9998;</strong> Edit Posy</a></p>
+  </div>
+  <div class="description">
+    <div class="container">
+      <div class="">
+        <h3>K'as-tu fait de nous?</h3>
+        Satoshi Mon Ami EP, out now!
+      </div>
+     
+      <div>
+        <p><a class="button" href="./highlights/kas-tu-fait-de-nous/">Read Highlight</a></p>
+      </div>
+  
+    </div>
+  </div>
+
+</section>
 
 
 
-<section id="album0"
-  class="section-shadow banner style1 orient-left content-align-right image-position-center fullscreen onload-image-fade-in onload-content-fade-right">
+<section class="releases">
+  <h2>Releases</h2>
+  <div class="container">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
-  <div class="content">
-    <h1>Spark Master Tape</h1>
-    <p>Paperplattunes and the uncertain future of free publications implicating links to data in a semi-regulated data-market is kinda uncertain #SWOUP</p>
+  <article>
+    <figure>
+      <a href="/releases/tfb-otk/">
+        <img src="https://media.basspistol.com/basspistol.com/tfb-otk/1-fragleism-you-know.jpeg" alt="Cover art for TFB - OTK" /></a>
+      <figcaption>
+        <strong>TFB - OTK</strong><br />
+
+        
+        
     
-    
+
+        34:14
+
 <br />
-    <ul class="actions stacked">
-      
-      <li><a href="./spark-master-tape/"
-          class="button small ">Read more</a>
-      </li>
-    </ul>
-  </div>
-
-  <div class="image">
-    <img src="./assets/img/Screenshot at 2019-04-02 17-42-40.png" alt="Spark Master Tape" title="Spark Master Tape" />
-
-  </div>
-</section>
 
 
+        2013
+      </figcaption>
+    </figure>
+  </article>
 
-<section id="album1"
-  class="section-shadow banner style1 orient-right content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-right">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
-  <div class="content">
-    <h1>Darkweb</h1>
-    <p>What if there was another space within cyberspace? What if there was a place the strange could call a home?</p>
+  <article>
+    <figure>
+      <a href="/releases/dustandsoda/">
+        <img src="https://media.basspistol.com/basspistol.com/dust-and-soda/1-the-all-new-american-holocaust.jpeg" alt="Cover art for Dust And Soda" /></a>
+      <figcaption>
+        <strong>Dust And Soda</strong><br />
+
+        
+        
     
-    
+
+        68:54
+
 <br />
-    <ul class="actions stacked">
-      
-      <li><a href="./darkweb/"
-          class="button small ">Read more</a>
-      </li>
-    </ul>
-  </div>
 
-  <div class="image">
-    <img src="./assets/img/coverartDarkweb_setto.jpg" alt="Darkweb" title="Darkweb" />
 
-  </div>
-</section>
-
-
-
-
-
-<!-- Releases -->
-
-
-
-
-
-
-<section class="wrapper style1 align-center">
-  <div class="inner" style="padding-top: 40px;">
-    <h2>Releases</h2>
-    <p>Collection of releases through time</p>
-  </div>
-</section>
-
-
-
-
-
-
-
-
-
-<section class="spotlight style5 orient-left content-align-right image-position-center onscroll-image-fade-in" style="box-shadow: none;" >
-
-
-  <div class="content">
-            <h3>Tfb Otk</h3>
-        <p>2013</p>
-    <!-- <p></p> -->
-
-    <ul class="actions stacked">
-      <li><a href="/albums/tfb-otk/" style="text-decoration:none;" class="button small icon solid fa-volume-up">Listen</a></li>
-    </ul>
-  </div>
-  <div class="image">
-    <img src="https://media.basspistol.com/basspistol.com/tfb-otk/1-fragleism-you-know.jpeg" alt="Tfb Otk" />
-  </div>
-
-</section>
-
-
-
-<section class="spotlight style5 orient-right content-align-left image-position-center onscroll-image-fade-in" >
-
-
-  <div class="content">
-            <h3>Dust And Soda</h3>
-        <p>2012</p>
-    <!-- <p></p> -->
-
-    <ul class="actions stacked">
-      <li><a href="/albums/dust-and-soda/" style="text-decoration:none;" class="button small icon solid fa-volume-up">Listen</a></li>
-    </ul>
-  </div>
-  <div class="image">
-    <img src="https://media.basspistol.com/basspistol.com/dust-and-soda/1-the-all-new-american-holocaust.jpeg" alt="Dust And Soda" />
-  </div>
-
-</section>
-
-
-
-<section class="spotlight style5 orient-left content-align-right image-position-center onscroll-image-fade-in" >
-
-
-  <div class="content">
-            <h3>The House Of Set</h3>
-        <p>2012</p>
-    <!-- <p></p> -->
-
-    <ul class="actions stacked">
-      <li><a href="/albums/the-house-of-set/" style="text-decoration:none;" class="button small icon solid fa-volume-up">Listen</a></li>
-    </ul>
-  </div>
-  <div class="image">
-    <img src="https://media.basspistol.com/basspistol.com/the-house-of-set/1-subway.jpeg" alt="The House Of Set" />
-  </div>
-
-</section>
-
-
-
-<section class="spotlight style5 orient-right content-align-left image-position-center onscroll-image-fade-in" >
-
-
-  <div class="content">
-            <h3>Headcleaner</h3>
-        <p>2011</p>
-    <!-- <p></p> -->
-
-    <ul class="actions stacked">
-      <li><a href="/albums/headcleaner/" style="text-decoration:none;" class="button small icon solid fa-volume-up">Listen</a></li>
-    </ul>
-  </div>
-  <div class="image">
-    <img src="https://media.basspistol.com/basspistol.com/headcleaner/1-radius.jpeg" alt="Headcleaner" />
-  </div>
-
-</section>
-
-
-
-<section class="spotlight style5 orient-left content-align-right image-position-center onscroll-image-fade-in" >
-
-
-  <div class="content">
-            <h3>Kick N Base Made In Barcelona</h3>
-        <p>2010</p>
-    <!-- <p></p> -->
-
-    <ul class="actions stacked">
-      <li><a href="/albums/kick-n-base-made-in-barcelona/" style="text-decoration:none;" class="button small icon solid fa-volume-up">Listen</a></li>
-    </ul>
-  </div>
-  <div class="image">
-    <img src="https://media.basspistol.com/basspistol.com/kick-n-base-made-in-barcelona/1-larry.jpeg" alt="Kick N Base Made In Barcelona" />
-  </div>
-
-</section>
-
-
-
-<section class="spotlight style5 orient-right content-align-left image-position-center onscroll-image-fade-in" >
-
-
-  <div class="content">
-            <h3>Musical Tourism</h3>
-        <p>2010</p>
-    <!-- <p></p> -->
-
-    <ul class="actions stacked">
-      <li><a href="/albums/musical-tourism/" style="text-decoration:none;" class="button small icon solid fa-volume-up">Listen</a></li>
-    </ul>
-  </div>
-  <div class="image">
-    <img src="https://media.basspistol.com/basspistol.com/musical-tourism/1-travel3.jpeg" alt="Musical Tourism" />
-  </div>
-
-</section>
-
-
-
-<section class="spotlight style5 orient-left content-align-right image-position-center onscroll-image-fade-in" >
-
-
-  <div class="content">
-            <h3>Psykedelisk Pop</h3>
-        <p>2010</p>
-    <!-- <p></p> -->
-
-    <ul class="actions stacked">
-      <li><a href="/albums/psykedelisk-pop/" style="text-decoration:none;" class="button small icon solid fa-volume-up">Listen</a></li>
-    </ul>
-  </div>
-  <div class="image">
-    <img src="https://media.basspistol.com/basspistol.com/psykedelisk-pop/1-janne-i-min-hj-rna.jpeg" alt="Psykedelisk Pop" />
-  </div>
-
-</section>
-
-
-
-<!-- END Insta -->
-
-
-
-<section class="streambox" style="padding: 40px;">
-<h2 style="text-align: center;display: block;">Support Basspistol</h2>
-<p>Stream, follow, like and subscribe!</p>
-<div class="streamer">
-
-
-<a onclick="_paq.push(['trackEvent', 'StoreLink', 'Bandcamp']);" target="_blank" rel="noopener" href="https://shop.basspistol.com" alt="Stream from Bandcamp" title="Stream from Bandcamp" class="button small icon brands fa-bandcamp">Bandcamp</a>
-
-
-
-
-
-
-
-
-
-<a onclick="_paq.push(['trackEvent', 'StoreLink', 'Archive.org']);" target="_blank" rel="noopener" href="https://archive.org/details/basspistol" alt="Stream from Archive.org" title="Stream from Archive.org" class="button small icon brands fa-creative-commons-sampling">Archive.org</a>
-
-
+        2012
+      </figcaption>
+    </figure>
+  </article>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  <article>
+    <figure>
+      <a href="/releases/houseofset/">
+        <img src="https://media.basspistol.com/basspistol.com/the-house-of-set/1-subway.jpeg" alt="Cover art for The House Of Set" /></a>
+      <figcaption>
+        <strong>The House of Set</strong><br />
+
+        
+        
+    
+
+        47:43
+
+<br />
+
+
+        2012
+      </figcaption>
+    </figure>
+  </article>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  <article>
+    <figure>
+      <a href="/releases/headcleaner/">
+        <img src="https://media.basspistol.com/basspistol.com/headcleaner/1-radius.jpeg" alt="Cover art for Headcleaner" /></a>
+      <figcaption>
+        <strong>Headcleaner</strong><br />
+
+        
+        
+    
+
+        73:25
+
+<br />
+
+
+        2011
+      </figcaption>
+    </figure>
+  </article>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  <article>
+    <figure>
+      <a href="/releases/holyhertzkicknbase/">
+        <img src="https://media.basspistol.com/basspistol.com/kick-n-base-made-in-barcelona/1-larry.jpeg" alt="Cover art for Kick'N'Base Made In Barcelona" /></a>
+      <figcaption>
+        <strong>Kick'N'Base Made In Barcelona</strong><br />
+
+        
+        
+    
+
+        73:30
+
+<br />
+
+
+        2010
+      </figcaption>
+    </figure>
+  </article>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  <article>
+    <figure>
+      <a href="/releases/musical-tourism/">
+        <img src="https://media.basspistol.com/basspistol.com/musical-tourism/1-travel3.jpeg" alt="Cover art for Musical Tourism" /></a>
+      <figcaption>
+        <strong>Musical Tourism</strong><br />
+
+        
+        
+    
+
+        39:45
+
+<br />
+
+
+        2010
+      </figcaption>
+    </figure>
+  </article>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  <article>
+    <figure>
+      <a href="/releases/psykedelisk-pop/">
+        <img src="https://media.basspistol.com/basspistol.com/psykedelisk-pop/1-janne-i-min-hj-rna.jpeg" alt="Cover art for Psykedelisk Pop" /></a>
+      <figcaption>
+        <strong>Psykedelisk Pop</strong><br />
+
+        
+        
+    
+
+        44:26
+
+<br />
+
+
+        2010
+      </figcaption>
+    </figure>
+  </article>
+
+  
+  
+  
 </div>
-<h2 style="text-align: center;display: block;">&nbsp;</h2>
-
-<div class="streamer">
-
-
-
-
-<a onclick="_paq.push(['trackEvent', 'StoreLink', 'Spotify']);" target="_blank" rel="noopener" href="https://open.spotify.com/playlist/5daDKmJZ2aG54MzKO2FxLc" alt="Stream from Spotify" title="Stream from Spotify" class="button small icon brands fa-spotify">Spotify</a>
-
-
-
-<a onclick="_paq.push(['trackEvent', 'StoreLink', 'YouTube']);" target="_blank" rel="noopener" href="https://www.youtube.com/TheBasspistol" alt="Stream from YouTube" title="Stream from YouTube" class="button small icon brands fa-youtube">YouTube</a>
-
-
-
-<a onclick="_paq.push(['trackEvent', 'StoreLink', 'Soundcloud']);" target="_blank" rel="noopener" href="https://soundcloud.com/basspistol" alt="Stream from Soundcloud" title="Stream from Soundcloud" class="button small icon brands fa-soundcloud">Soundcloud</a>
-
-
-
-
-</div>
 </section>
+
 
 
 <!-- Footer -->
-<footer id="footer" class="wrapper style1 align-center">
-  <div class="footflex">
+
+
+
+  <section class="streambox">
+  <h2>Support Basspistol</h2>
+  <p>Stream, follow, like and subscribe!</p>
+  <div class="streamer">
+  
+
+  <a onclick="_paq.push(['trackEvent', 'StoreLink', 'Bandcamp']);" target="_blank" rel="noopener" href="https://shop.basspistol.com" title="Stream from Bandcamp" class="icon fab fa-bandcamp"><span class="label">Bandcamp</span></a>
+
+  
+
+  <a onclick="_paq.push(['trackEvent', 'StoreLink', 'Spotify']);" target="_blank" rel="noopener" href="https://open.spotify.com/playlist/5daDKmJZ2aG54MzKO2FxLc" title="Stream from Spotify" class="icon fab fa-spotify"><span class="label">Spotify</span></a>
+
+  
+
+  <a onclick="_paq.push(['trackEvent', 'StoreLink', 'YouTube']);" target="_blank" rel="noopener" href="https://www.youtube.com/TheBasspistol" title="Stream from YouTube" class="icon fab fa-youtube"><span class="label">YouTube</span></a>
+
+  
+
+  <a onclick="_paq.push(['trackEvent', 'StoreLink', 'Soundcloud']);" target="_blank" rel="noopener" href="https://soundcloud.com/basspistol" title="Stream from Soundcloud" class="icon fab fa-soundcloud"><span class="label">Soundcloud</span></a>
+
+  
+
+  <a onclick="_paq.push(['trackEvent', 'StoreLink', 'Archive.org']);" target="_blank" rel="noopener" href="https://archive.org/details/basspistol" title="Stream from Archive.org" class="icon fab fa-creative-commons-sampling"><span class="label">Archive.org</span></a>
+
+  
+  </div>
+  </section>
+
+
+<!-- Footer -->
+<footer>
+  <div class="footframe">
     <div>
-      <h4>Basspistol</h4>
-      <p>The Outernational Music Syndicate. Established in 2010
-      <br /><a href="mailto:"></a></p>
-    </div>
-    <div>
+      <h3>Basspistol</h3>
+      <p>The Outernational Music Syndicate. Established in 2010</p>
       <ul>
         
         
-        <li><a href="/discography/">Discog</a></li>
+        <li><a href="/discography/" >💽 Discog</a></li>
         
-        <li><a href="/radio/">Radio</a></li>
+        <li><a href="/radio/" >📻 Radio</a></li>
         
-        <li><a href="/highlights/">Hi-lights</a></li>
+        <li><a href="/highlights/" >📰 Hi-lights</a></li>
         
-        <li><a href="/artists/">Artists</a></li>
+        <li><a href="/artists/" >🧑🏾‍🤝‍🧑🏼🧑🏻‍🤝‍🧑🏽 Artists</a></li>
         
-        <li><a href="/about/">About</a></li>
+        <li><a href="/about/" >☔ About</a></li>
         
-        <li><a href="/links/">Links</a></li>
+        <li><a href="/links/" >🔗 Links</a></li>
         
       </ul>
     </div>
-    <div><img src="./siteicon.png" style="max-width:300px" alt="Basspistol Logo" /></div>
-  </div>
-  <div class="inner">
-    <ul class="icons">
-      
+    <div><a href="#main-wrapper"><img src="./siteicon.png" alt="Basspistol Logo" /></a></div>
 
-      <li><a target="_blank" alt="Basspistol on Mastodon" title="Basspistol on Mastodon" rel="me noopener" href="https://mastodon.art/@basspistol" class="icon brands style2 fa-mastodon"><span class="label">Mastodon</span></a></li>
+    <small>
 
-      
-
-      <li><a target="_blank" alt="Basspistol on Twitter" title="Basspistol on Twitter" rel="noopener" href="https://twitter.com/bpist" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
-
-      
-
-      <li><a target="_blank" alt="Basspistol on Instagram" title="Basspistol on Instagram" rel="noopener" href="https://www.instagram.com/basspistol" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
-
-      
-
-      <li><a target="_blank" alt="Basspistol on Telegram" title="Basspistol on Telegram" rel="noopener" href="https://t.me/basspistol" class="icon brands style2 fa-telegram"><span class="label">Telegram</span></a></li>
-
-      
-
-      <li><a target="_blank" alt="Basspistol on Reddit" title="Basspistol on Reddit" rel="noopener" href="https://www.reddit.com/r/basspistol" class="icon brands style2 fa-reddit"><span class="label">Reddit</span></a></li>
-
-      
-      <!-- <li><a href="mailto:" class="icon style2 fa-envelope"><span class="label">Email</span></a></li> -->
-    </ul>
-    <p>&copy;2020 Basspistol | <a href="./webcreds/">Credits</a> | <a href="./cookies/">Cookies & Privacy</a></p>
+      <p>&copy;2020 Basspistol | <a href="./webcreds/">Credits</a> |
+        <a href="./cookies/">Cookies & Privacy</a>
+        <br />This page was last updated on Tuesday, Sep 08, 2020</p>
+    </small>
   </div>
 </footer>
 
-  </div>
-  <!-- Navigation -->
-<div id="logo" class="logo">
-  <a href="/"><img width="100em" src="/siteicon.png" alt=" Logo" /></a>
-  &nbsp;&nbsp;&nbsp;<a href="#navbar" onclick="blurBody()" alt="Navigation Menu" title="Navigation Menu"><span style="font-size: 34px;" class="icon solid fa-bars"></span></a>
-  </div>
-  
-  <div id="navbar" style="display: block;" class="modalDialog">
-    <a href="#close" onclick="removeBlur()" alt="Close Menu" title="Close Menu"><div id="closearea">  </div></a>
-    <nav>
-      <a href="#close" title="Close" onclick="removeBlur()" class="close-button close" style="margin: 0 auto;">X</a>
-      <ul> 
-        
-        
-        
-        <li><a href="./discography/" class="button smaller">Discog</a></li>
-        
-        
-        
-        <li><a href="./radio/" class="button smaller">Radio</a></li>
-        
-        
-        
-        <li><a href="./highlights/" class="button smaller">Hi-lights</a></li>
-        
-        
-        
-        <li><a href="./artists/" class="button smaller">Artists</a></li>
-        
-        
-        
-        <li><a href="./about/" class="button smaller">About</a></li>
-        
-        
-        
-        <li><a href="./links/" class="button smaller">Links</a></li>
-        
-        
 
-      </ul>
-    </nav>
-  </div>
+
+<!-- END Footer -->
+
+
+</div>
+<!-- END Wrapper -->
+
+<!-- Navigation -->
+<div id="sticky" class="logo">
+
+  <a id="logo" href="#top"><img height="40px" src="/siteicon.png" alt="Basspistol Logo" /></a>
+  <a href="#navbar" onclick="blurBody()" alt="Navigation Menu" title="Navigation Menu"><span
+      class="fas fa-bars navmenu"></span></a>
+
+</div>
+
+<div id="navbar" class="modalDialog">
+  <a href="#close" onclick="removeBlur()" alt="Close Menu" title="Close Menu">
+    <div id="closearea"> </div>
+  </a>
+  <nav>
+    <a href="#close" title="Close" onclick="removeBlur()" class="close-button">X</a>
+    <ul>
+      
+      
+      
+      <li><a href="./discography/" onclick="removeBlur()" class="button">Discog</a></li>
+      
+      
+      
+      <li><a href="./radio/" onclick="removeBlur()" class="button">Radio</a></li>
+      
+      
+      
+      <li><a href="./highlights/" onclick="removeBlur()" class="button">Hi-lights</a></li>
+      
+      
+      
+      <li><a href="./artists/" onclick="removeBlur()" class="button">Artists</a></li>
+      
+      
+      
+      <li><a href="./about/" onclick="removeBlur()" class="button">About</a></li>
+      
+      
+      
+      <li><a href="./links/" onclick="removeBlur()" class="button">Links</a></li>
+      
+      
+
+    </ul>
+  </nav>
+</div>
   
   
   <!-- End Navigation -->
-  <!-- Scripts -->
 
 
-
-
-<script src="./assets/js/jquery.min.js"></script>
-<script src="./assets/js/jquery.scrollex.min.js"></script>
-<script src="./assets/js/jquery.scrolly.min.js"></script>
-<script src="./assets/js/browser.min.js"></script>
-<script src="./assets/js/breakpoints.min.js"></script>
-<script src="./assets/js/util.js"></script>
-<script src="./assets/js/main.js"></script>
-<script src="./assets/js/set.js"></script>
-
-  
 <div id="cookie-notice">
-  <p>We only use cookies if you consent to it. They don't contain any identifiable info: they just let us know if you enjoyed this enough to come back. <br />Click <a href="#" id="cookie-notice-decline">here</a> if you want this shit to go away without cookies.  <br />Read more about how Basspistol <a href="/cookies/">use cookies</a> </p>
-    <a class="button small yes" href="#" id="cookie-notice-accept">I'm in!</a>
+
+  <p>Vi använder bara cookies om du går med på det. Hjälp oss förbättra våran marknadsföring!  
+    <br />Klicka <a href="#" id="cookie-notice-decline">här</a> om du inte vill hjälpa till.
+    <br />Läs mer om <a href="/cookies/">hur vi använder cookies,</a>
+  </p>
+  <a class="button yes" href="#"
+    id="cookie-notice-accept">Jag hjälper gärna!</a>
+
 </div>
 
 <script>
@@ -741,7 +935,7 @@
       date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
       expires = "; expires=" + date.toUTCString();
     }
-    document.cookie = name + "=" + value + expires + "; path=/";
+    document.cookie = name + "=" + value + expires + "; path=/;SameSite=Strict";
   }
   function readCookie(name) {
     var nameEQ = name + "=";
@@ -784,7 +978,7 @@ _paq.push(['enableLinkTracking']);
   _paq.push(['setTrackerUrl', u+'matomo.php']);
   _paq.push(['setSiteId', '3']);
   var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-  g.type='text/javascript'; g.async=true; g.defer=true; g.src='//cdn.matomo.cloud/terminalnetwork.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://cdn.matomo.cloud/terminalnetwork.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
 })();
 
 
@@ -803,7 +997,7 @@ _paq.push(['enableLinkTracking']);
   _paq.push(['setTrackerUrl', u+'matomo.php']);
   _paq.push(['setSiteId', '3']);
   var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-  g.type='text/javascript'; g.async=true; g.defer=true; g.src='//cdn.matomo.cloud/terminalnetwork.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://cdn.matomo.cloud/terminalnetwork.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
 })();
 
   }
@@ -829,5 +1023,20 @@ _paq.push(['enableLinkTracking']);
 
 
 </script>
+<!-- Scripts -->
+
+
+
+
+<script src="./assets/js/set-20200805.js"></script>
+
+
+<div class="fullscreen-bg">
+<video autoplay muted loop poster="/assets/vid/intro_loop_.jpg" class="fullscreen-bg__video">
+  <source src="/assets/vid/intro_loop_.mp4" type="video/mp4">
+</video>
+</div>
+
 </body>
 </html>
+

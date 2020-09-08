@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+
+  <channel>
+    <title>Basspistol</title>
+    <atom:link href="https://basspistol.com/rss.xml" rel="self" type="application/rss+xml" />
+    <link>https://basspistol.com</link>
+    <description>The Outernational Music Syndicate. Established in 2010</description>
+    <lastBuildDate>Tue, 08 Sep 2020 20:55:44 +0000</lastBuildDate>
+    <language>en-US</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>https://jekyllrb.com/</generator>
+
+    <image>
+      <url>https://basspistol.com/siteicon.png</url>
+      <title>Basspistol</title>
+      <link>https://basspistol.com</link>
+      <width>480</width>
+      <height>480</height>
+    </image> 
+    <itunes:summary><![CDATA[Basspistol - The Outernational Music Syndicate. Established in 2010]]></itunes:summary>
+    <itunes:author>Basspistol</itunes:author>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:image href="https://basspistol.com/assets/img/basspistol_est_2010_square_bluegreen.jpg" />
+    <itunes:owner>
+      <itunes:name>Basspistol</itunes:name>
+      <itunes:email>info@basspistol.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>info@basspistol.com (Basspistol)</managingEditor>
+    <copyright>Anti-Copyright 2018 Basspistol</copyright>
+    <itunes:subtitle>Basspistol</itunes:subtitle>
+    <itunes:category text="Music">
+    </itunes:category>
+    <rawvoice:rating>TV-14</rawvoice:rating>
+    <rawvoice:frequency>Daily</rawvoice:frequency>
+  
+      <item>
+        <title>Spark Master Tape</title>
+        <link>https://basspistol.com/highlights/spark-master-tape/</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/spark-master-tape/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/Screenshot-at-2019-04-02-17-42-40.png&quot; /&gt; &lt;br /&gt;Paperplattunes and the uncertain future of free publications implicating links to data in a semi-regulated data-market is kinda uncertain #SWOUP</description>
+        <category>Web Logs</category>
+        <author></author>
+        <pubDate>Tue, 02 Apr 2019 17:07:00 +0000</pubDate>
+        <itunes:author></itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>Paperplattunes and the uncertain future of free publications implicating links to data in a semi-regulated data-market is kinda uncertain #SWOUP</itunes:subtitle>
+        <itunes:summary>Paperplattunes and the uncertain future of free publications implicating links to data in a semi-regulated data-market is kinda uncertain #SWOUP</itunes:summary>
+        <itunes:keywords>hackers, portofplatoon, SWOUP, cybersoul</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/Screenshot-at-2019-04-02-17-42-40.png"/>
+      </item>
+  
+      <item>
+        <title>Darkweb</title>
+        <link>https://basspistol.com/highlights/darkweb/</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/darkweb/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/coverartDarkweb_setto.jpg&quot; /&gt; &lt;br /&gt;What if there was another space within cyberspace? What if there was a place the strange could call a home?</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Fri, 08 Feb 2019 23:00:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>What if there was another space within cyberspace? What if there was a place the strange could call a home?</itunes:subtitle>
+        <itunes:summary>What if there was another space within cyberspace? What if there was a place the strange could call a home?</itunes:summary>
+        <itunes:keywords>internal, release, EP, cybersoul</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/coverartDarkweb_setto.jpg"/>
+      </item>
+  
+      <item>
+        <title>K'as-tu fait de nous?</title>
+        <link>https://basspistol.com/highlights/kas-tu-fait-de-nous/</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/kas-tu-fait-de-nous/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/2018-setto-single-003-reve_de_toi-117bpm_sqaure_FINAL.jpg&quot; /&gt; &lt;br /&gt;Satoshi Mon Ami EP, out now!</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Sun, 20 Jan 2019 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>Satoshi Mon Ami EP, out now!</itunes:subtitle>
+        <itunes:summary>Satoshi Mon Ami EP, out now!</itunes:summary>
+        <itunes:keywords>internal, release, EP, cybersoul</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/2018-setto-single-003-reve_de_toi-117bpm_sqaure_FINAL.jpg"/>
+      </item>
+  
+      <item>
+        <title>Waiting Game</title>
+        <link>https://basspistol.com/highlights/waitinggame/</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/waitinggame/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/waitinggame.jpg&quot; /&gt; &lt;br /&gt;Sakrecoer Sells out!</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Fri, 18 Jan 2019 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>Sakrecoer Sells out!</itunes:subtitle>
+        <itunes:summary>Sakrecoer Sells out!</itunes:summary>
+        <itunes:keywords>internal, album</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/waitinggame.jpg"/>
+      </item>
+  
+      <item>
+        <title>Acid December 2018</title>
+        <link>https://basspistol.com/highlights/aciddecember2018/</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/aciddecember2018/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/aciddecember2018.jpg&quot; /&gt; &lt;br /&gt;Intergalactic tradition finally back in our dimension.</description>
+        <category>Web Logs</category>
+        <author>set</author>
+        <pubDate>Wed, 05 Dec 2018 17:07:00 +0000</pubDate>
+        <itunes:author>set</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>Intergalactic tradition finally back in our dimension.</itunes:subtitle>
+        <itunes:summary>Intergalactic tradition finally back in our dimension.</itunes:summary>
+        <itunes:keywords>acid, december</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/aciddecember2018.jpg"/>
+      </item>
+  
+      <item>
+        <title>Los Ganglios</title>
+        <link>https://basspistol.com/highlights/losganglios/</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/losganglios/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/trnx_losganglios.jpg&quot; /&gt; &lt;br /&gt;PORC, or what happens when you conglomerate Punk, Techno, Rock and Cumbia</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Fri, 05 Oct 2018 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>PORC, or what happens when you conglomerate Punk, Techno, Rock and Cumbia</itunes:subtitle>
+        <itunes:summary>PORC, or what happens when you conglomerate Punk, Techno, Rock and Cumbia</itunes:summary>
+        <itunes:keywords>spanish, post-pop, porc</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/trnx_losganglios.jpg"/>
+      </item>
+  
+      <item>
+        <title>Ratitude</title>
+        <link>https://basspistol.com/highlights/phenomonalyyung/</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/phenomonalyyung/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/clr.jpg&quot; /&gt; &lt;br /&gt;Codes, idioms and how the Yungster redefined the notion of a band.</description>
+        <category>Web Logs</category>
+        <author>set</author>
+        <pubDate>Tue, 11 Sep 2018 17:07:00 +0000</pubDate>
+        <itunes:author>set</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>Codes, idioms and how the Yungster redefined the notion of a band.</itunes:subtitle>
+        <itunes:summary>Codes, idioms and how the Yungster redefined the notion of a band.</itunes:summary>
+        <itunes:keywords>yung, lean, article</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/clr.jpg"/>
+      </item>
+  
+      <item>
+        <title>BIRRA x WEED (Prod. by Keizen)</title>
+        <link>https://basspistol.com/highlights/birraweed/</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/birraweed/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/birraweed.jpg&quot; /&gt; &lt;br /&gt;Chillean lean, straight out of Valpara&amp;iacute;so</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Sun, 09 Sep 2018 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>Chillean lean, straight out of Valpara&amp;iacute;so</itunes:subtitle>
+        <itunes:summary>Chillean lean, straight out of Valpara&amp;iacute;so</itunes:summary>
+        <itunes:keywords>video, ekipz, rap, chille</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/birraweed.jpg"/>
+      </item>
+  
+      <item>
+        <title>Basspistol v 4.20</title>
+        <link>https://basspistol.com/highlights/v4-20/</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/v4-20/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/newera.jpg&quot; /&gt; &lt;br /&gt;Music is not a number. Software versioning is. It's time to bringing back cultural diversity to the interwebs. </description>
+        <category>Web Logs</category>
+        <author>set</author>
+        <pubDate>Fri, 07 Sep 2018 17:07:00 +0000</pubDate>
+        <itunes:author>set</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>Music is not a number. Software versioning is. It's time to bringing back cultural diversity to the interwebs. </itunes:subtitle>
+        <itunes:summary>Music is not a number. Software versioning is. It's time to bringing back cultural diversity to the interwebs. </itunes:summary>
+        <itunes:keywords>article, release, internal, log</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/newera.jpg"/>
+      </item>
+  
+      <item>
+        <title>Habib Galbi</title>
+        <link>https://basspistol.com/highlights/a-wa-habib-galbi/</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/a-wa-habib-galbi/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/awgalbi.jpg&quot; /&gt; &lt;br /&gt;A WA is a band formed by 3 sisters who combine Yemenite folk singing with electronic dance music.</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Thu, 30 Aug 2018 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>A WA is a band formed by 3 sisters who combine Yemenite folk singing with electronic dance music.</itunes:subtitle>
+        <itunes:summary>A WA is a band formed by 3 sisters who combine Yemenite folk singing with electronic dance music.</itunes:summary>
+        <itunes:keywords>girlpower, video, oriental</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/awgalbi.jpg"/>
+      </item>
+  
+      <item>
+        <title>Abiotism</title>
+        <link>https://basspistol.com/highlights/abitosim/</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/abitosim/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/abiotism.jpg&quot; /&gt; &lt;br /&gt;An extremly lively piece of music for being an abiotism.</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Wed, 29 Aug 2018 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>An extremly lively piece of music for being an abiotism.</itunes:subtitle>
+        <itunes:summary>An extremly lively piece of music for being an abiotism.</itunes:summary>
+        <itunes:keywords>fredagsbas, house, deep</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/abiotism.jpg"/>
+      </item>
+  
+      <item>
+        <title>G-Funk Summer Mix 2018</title>
+        <link>https://basspistol.com/highlights/cricketsummermix/</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/cricketsummermix/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/cricket.summer.jpg&quot; /&gt; &lt;br /&gt;100% Vinyl mix of G-Funk</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Mon, 27 Aug 2018 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>100% Vinyl mix of G-Funk</itunes:subtitle>
+        <itunes:summary>100% Vinyl mix of G-Funk</itunes:summary>
+        <itunes:keywords>g-funk, summer, mix</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/cricket.summer.jpg"/>
+      </item>
+  
+      <item>
+        <title>DefCon Radio</title>
+        <link>https://basspistol.com/highlights/defconradio/</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/defconradio/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/dcsite-bg-ret.jpg&quot; /&gt; &lt;br /&gt;Music for Hacking. The DEF CON Year-Round Channel. DEF CON is one of the world's largest annual hacker conventions, held every year in Las Vegas, N...</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Thu, 23 Aug 2018 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>Music for Hacking. The DEF CON Year-Round Channel. DEF CON is one of the world's largest annual hacker conventions, held every year in Las Vegas, Nevada. Since 2013, SomaFM has provided the music for the DEF CON Chill room.</itunes:subtitle>
+        <itunes:summary>Music for Hacking. The DEF CON Year-Round Channel. DEF CON is one of the world's largest annual hacker conventions, held every year in Las Vegas, Nevada. Since 2013, SomaFM has provided the music for the DEF CON Chill room.</itunes:summary>
+        <itunes:keywords>hackers, coding, nerdcore</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/dcsite-bg-ret.jpg"/>
+      </item>
+  
+      <item>
+        <title>PinGNU</title>
+        <link>https://basspistol.com/highlights/pingnu/</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/pingnu/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/pingnu.jpg&quot; /&gt; &lt;br /&gt;PinGNU is a cybersoul banger of rank; a weird and wonderful mix between autotuned R'n'B, boombass and dope geekery. Blurring the lines of cooldom a...</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Mon, 05 Sep 2016 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>PinGNU is a cybersoul banger of rank; a weird and wonderful mix between autotuned R'n'B, boombass and dope geekery. Blurring the lines of cooldom and cuteness, this track is a triptych love song addressed to all the FLOSS coder out there, in the Nam...</itunes:subtitle>
+        <itunes:summary>PinGNU is a cybersoul banger of rank; a weird and wonderful mix between autotuned R'n'B, boombass and dope geekery. Blurring the lines of cooldom and cuteness, this track is a triptych love song addressed to all the FLOSS coder out there, in the Name of the GNU, The Pingu, and the Holy User.</itunes:summary>
+        <itunes:keywords>video, internal, cybersoul</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/pingnu.jpg"/>
+      </item>
+  
+      <item>
+        <title>Kalsong Salong</title>
+        <link>https://basspistol.com/highlights/kalsong-salong/</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/kalsong-salong/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/kalsongsalong.jpg&quot; /&gt; &lt;br /&gt;Papi Crapy staring in a Sakrecoer video</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Sat, 07 May 2016 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>Papi Crapy staring in a Sakrecoer video</itunes:subtitle>
+        <itunes:summary>Papi Crapy staring in a Sakrecoer video</itunes:summary>
+        <itunes:keywords>video, music, internal, cybersoul</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/kalsongsalong.jpg"/>
+      </item>
+  
+      <item>
+        <title>Golden Bank</title>
+        <link>https://basspistol.com/highlights/goldenbank/</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/goldenbank/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/goldenbank.jpg&quot; /&gt; &lt;br /&gt;ROM THE ALBUM &quot;DUST AND SODA&quot;</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Sat, 04 Jan 2014 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>ROM THE ALBUM &quot;DUST AND SODA&quot;</itunes:subtitle>
+        <itunes:summary>ROM THE ALBUM &quot;DUST AND SODA&quot;</itunes:summary>
+        <itunes:keywords>video, internal</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/goldenbank.jpg"/>
+      </item>
+  
+      <item>
+        <title>2 Billion Projects</title>
+        <link>https://basspistol.com/highlights/2biljonprojekt/</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/2biljonprojekt/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/2biljon.jpg&quot; /&gt; &lt;br /&gt;In a dystopian future, will The Fraglebay survive on their 2billion project?</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Sun, 12 May 2013 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>In a dystopian future, will The Fraglebay survive on their 2billion project?</itunes:subtitle>
+        <itunes:summary>In a dystopian future, will The Fraglebay survive on their 2billion project?</itunes:summary>
+        <itunes:keywords>video, internal</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/2biljon.jpg"/>
+      </item>
+  
+      <item>
+        <title>TFB - OTK</title>
+        <link>https://basspistol.com/releases/tfb-otk/</link>
+        <guid isPermaLink="true">https://basspistol.com/releases/tfb-otk/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/TFB-OTK.png&quot; /&gt; &lt;br /&gt;Enter this cybernetic opus of oblivion and computer aided overstanding, grown somewhere beyond the laws of physics.</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Wed, 01 May 2013 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>Enter this cybernetic opus of oblivion and computer aided overstanding, grown somewhere beyond the laws of physics.</itunes:subtitle>
+        <itunes:summary>Enter this cybernetic opus of oblivion and computer aided overstanding, grown somewhere beyond the laws of physics.</itunes:summary>
+        <itunes:keywords>internal, albums, download</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/TFB-OTK.png"/>
+      </item>
+  
+      <item>
+        <title>Dust And Soda</title>
+        <link>https://basspistol.com/releases/dustandsoda/</link>
+        <guid isPermaLink="true">https://basspistol.com/releases/dustandsoda/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/DustAndSoda.jpg&quot; /&gt; &lt;br /&gt;Dust And Soda is radical disco by young Mexican producer, Franky Fresco.</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Mon, 01 Apr 2013 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>Dust And Soda is radical disco by young Mexican producer, Franky Fresco.</itunes:subtitle>
+        <itunes:summary>Dust And Soda is radical disco by young Mexican producer, Franky Fresco.</itunes:summary>
+        <itunes:keywords>internal, albums, download</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/DustAndSoda.jpg"/>
+      </item>
+  
+      <item>
+        <title>Bättre tider</title>
+        <link>https://basspistol.com/highlights/battretider/</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/battretider/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/battretider.jpg&quot; /&gt; &lt;br /&gt;I'm waiting for better times. I'm laying home in the sofa and waiting for better times. Why should i wait here? I can do something better with my l...</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Wed, 13 Feb 2013 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>I'm waiting for better times. I'm laying home in the sofa and waiting for better times. Why should i wait here? I can do something better with my life!</itunes:subtitle>
+        <itunes:summary>I'm waiting for better times. I'm laying home in the sofa and waiting for better times. Why should i wait here? I can do something better with my life!</itunes:summary>
+        <itunes:keywords>video, internal</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/battretider.jpg"/>
+      </item>
+  
+      <item>
+        <title>The House Of Set</title>
+        <link>https://basspistol.com/releases/houseofset/</link>
+        <guid isPermaLink="true">https://basspistol.com/releases/houseofset/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/templeofSetCoverART_INV.png&quot; /&gt; &lt;br /&gt;The House Of Set, Recorded in an itinerant studio by Simio Sakrecoer</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Thu, 06 Sep 2012 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>The House Of Set, Recorded in an itinerant studio by Simio Sakrecoer</itunes:subtitle>
+        <itunes:summary>The House Of Set, Recorded in an itinerant studio by Simio Sakrecoer</itunes:summary>
+        <itunes:keywords>internal, albums, download</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/templeofSetCoverART_INV.png"/>
+      </item>
+  
+      <item>
+        <title>Headcleaner</title>
+        <link>https://basspistol.com/releases/headcleaner/</link>
+        <guid isPermaLink="true">https://basspistol.com/releases/headcleaner/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/DrTikov_Headcleaner.jpg&quot; /&gt; &lt;br /&gt;Headcleaner by Dr. Tikov. A minimalistic opus of dubish Russian techno, made in Barcelona.</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Mon, 06 Jun 2011 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>Headcleaner by Dr. Tikov. A minimalistic opus of dubish Russian techno, made in Barcelona.</itunes:subtitle>
+        <itunes:summary>Headcleaner by Dr. Tikov. A minimalistic opus of dubish Russian techno, made in Barcelona.</itunes:summary>
+        <itunes:keywords>internal, albums, download</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/DrTikov_Headcleaner.jpg"/>
+      </item>
+  
+      <item>
+        <title>Travel3</title>
+        <link>https://basspistol.com/highlights/travle3/</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/travle3/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/travel3.jpg&quot; /&gt; &lt;br /&gt;</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Thu, 03 Feb 2011 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:keywords>video, internal</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/travel3.jpg"/>
+      </item>
+  
+      <item>
+        <title>Kick'N'Base Made In Barcelona</title>
+        <link>https://basspistol.com/releases/holyhertzkicknbase/</link>
+        <guid isPermaLink="true">https://basspistol.com/releases/holyhertzkicknbase/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/holyhertzcover.jpg&quot; /&gt; &lt;br /&gt;Kick N Base Made In Barcelona by Holyhertz is a collaborative conception between infamous musicians Dr. Tikov and reSet Sakrecoer</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Fri, 07 Jan 2011 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>Kick N Base Made In Barcelona by Holyhertz is a collaborative conception between infamous musicians Dr. Tikov and reSet Sakrecoer</itunes:subtitle>
+        <itunes:summary>Kick N Base Made In Barcelona by Holyhertz is a collaborative conception between infamous musicians Dr. Tikov and reSet Sakrecoer</itunes:summary>
+        <itunes:keywords>internal, albums, download</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/holyhertzcover.jpg"/>
+      </item>
+  
+      <item>
+        <title>Musical Tourism</title>
+        <link>https://basspistol.com/releases/musical-tourism/</link>
+        <guid isPermaLink="true">https://basspistol.com/releases/musical-tourism/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/Synapset-MusicalTourism_Fro.jpg&quot; /&gt; &lt;br /&gt;Musical Tourism by SYNAPSET was recorded over a week in April 2010 by Synapskollaps and reSet Sakrecoer.</description>
+        <category>Web Logs</category>
+        <author></author>
+        <pubDate>Sun, 17 Oct 2010 17:07:00 +0000</pubDate>
+        <itunes:author></itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>Musical Tourism by SYNAPSET was recorded over a week in April 2010 by Synapskollaps and reSet Sakrecoer.</itunes:subtitle>
+        <itunes:summary>Musical Tourism by SYNAPSET was recorded over a week in April 2010 by Synapskollaps and reSet Sakrecoer.</itunes:summary>
+        <itunes:keywords>internal, albums, download</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/Synapset-MusicalTourism_Fro.jpg"/>
+      </item>
+  
+      <item>
+        <title>Psykedelisk Pop</title>
+        <link>https://basspistol.com/releases/psykedelisk-pop/</link>
+        <guid isPermaLink="true">https://basspistol.com/releases/psykedelisk-pop/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/assets/img/PsykedeliskPopFront.jpg&quot; /&gt; &lt;br /&gt;Psykedelisk Pop, by reSet Sakrecoer is the journey of a boyish Piaf on a pounding kick-ride.</description>
+        <category>Web Logs</category>
+        <author>bassBot</author>
+        <pubDate>Mon, 06 Sep 2010 17:07:00 +0000</pubDate>
+        <itunes:author>bassBot</itunes:author>
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:subtitle>Psykedelisk Pop, by reSet Sakrecoer is the journey of a boyish Piaf on a pounding kick-ride.</itunes:subtitle>
+        <itunes:summary>Psykedelisk Pop, by reSet Sakrecoer is the journey of a boyish Piaf on a pounding kick-ride.</itunes:summary>
+        <itunes:keywords>internal, albums, download</itunes:keywords>
+        <itunes:image href="https://basspistol.com/assets/img/PsykedeliskPopFront.jpg"/>
+      </item>
+  
+  </channel>
+</rss>
