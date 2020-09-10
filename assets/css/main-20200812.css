@@ -478,7 +478,7 @@ a[id^="btn"]::-moz-focus-inner { border: 0; padding: 0; }
 /* cookies */
 #cookie-notice { display: none; text-align: right; position: fixed; bottom: 0; width: 100%; background-color: var(--bg); flex-wrap: wrap; justify-content: space-evenly; align-content: center; align-items: center; z-index: 10000000; -webkit-box-shadow: 0px -12px 32px -25px var(--border-alt); -moz-box-shadow: 0px -12px 32px -25px var(--border-alt); box-shadow: 0px -12px 32px -25px var(--border-alt); }
 
-#cookie-notice p { flex: 1 0 250px; margin: 40px 20px 40px 40px; font-size: 1em; font-family: "Poppins", "Arial", "Helvetica", sans-serif; font-weight: 300; }
+#cookie-notice p { flex: 1 0 250px; margin: 40px 20px 40px 40px; font-size: 0.8em; font-family: "Poppins", "Arial", "Helvetica", sans-serif; font-weight: 300; }
 
 @media only screen and (max-width: 651px) { #cookie-notice p { text-align: center; margin: 40px 40px 20px 40px; } #cookie-notice .yes { margin: 20px 40px 40px 40px; } }
 
