@@ -95,7 +95,7 @@ body { height: 100vh; width: 100%; font-family: "Poppins", "Arial", "Helvetica",
 
 .hero .imagecontainer { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-image: url("../img/vignette.svg"); background-size: 240px; background-repeat: repeat-x; background-position: bottom; z-index: 1; }
 
-.hero .imagecontainer h4 { width: 90vw; height: auto; min-height: 100px; line-height: .85em; letter-spacing: -0.08em; color: var(--bg); font-size: 15vw; display: inline; opacity: 1; border-radius: var(--border-radius); position: absolute; bottom: 0; transform: rotate(-3deg); overflow: hidden; }
+.hero .imagecontainer h4 { width: 90vw; height: auto; min-height: 100px; line-height: 0.85em; letter-spacing: -0.08em; color: var(--bg); font-size: 15vw; display: inline; opacity: 1; border-radius: var(--border-radius); position: absolute; bottom: 0; transform: rotate(-3deg); overflow: hidden; }
 
 section { flex: 1 1 100%; background-color: var(--bg); -webkit-box-shadow: inset 0px 12px 32px -25px var(--border-alt); -moz-box-shadow: inset 0px 12px 32px -25px var(--border-alt); box-shadow: inset 0px 12px 32px -25px var(--border-alt); z-index: 2; }
 
@@ -129,17 +129,19 @@ footer .footframe small .label { display: none; }
 
 @media only screen and (max-width: 679px) { footer .footframe { justify-content: center; } footer .footframe div { flex-grow: 1; } }
 
-.post-navigation { padding: 80px 40px 80px 40px; display: flex; flex-wrap: wrap; justify-content: space-between; max-width: var(--max-width); margin: 0 auto; }
+.post-navigation { margin: 0; }
 
-.post-navigation h2 { flex: 0 0 100%; margin-top: 40px; text-align: center; }
+.post-navigation .container { display: flex; flex-wrap: wrap; justify-content: space-between; padding: 40px; align-items: flex-start; max-width: var(--max-width); margin: 0 auto; }
 
-.post-navigation .post-nav, .post-navigation .post-nav-next { flex: 1 0 200px; }
+.post-navigation .container h2 { flex: 0 0 100%; margin-top: 40px; text-align: center; }
 
-.post-navigation .post-nav h4, .post-navigation .post-nav-next h4 { font-size: 2em; justify-self: right; }
+.post-navigation .container .post-nav, .post-navigation .container .post-nav-next { flex: 1 0 200px; }
 
-.post-navigation .post-nav { margin: 0 40px 0 0; text-align: left; }
+.post-navigation .container .post-nav h4, .post-navigation .container .post-nav-next h4 { font-size: 2em; justify-self: right; }
 
-.post-navigation .post-nav-next { margin: 0 0 0 40px; text-align: right; }
+.post-navigation .container .post-nav { margin: 0 40px 0 0; text-align: left; }
+
+.post-navigation .container .post-nav-next { margin: 0 0 0 40px; text-align: right; }
 
 .releases { padding: 80px 0; }
 
