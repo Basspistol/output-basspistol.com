@@ -425,7 +425,7 @@ a[id^="btn"]::-moz-focus-inner { border: 0; padding: 0; }
 
 .track-picker .button { background-color: var(--accent1); color: var(--bg); }
 
-.track-picker .button:hover { background-color: var(--accent2); color: var(--fg); }
+.track-picker .button:hover { background-color: var(--accent2); }
 
 .track-picker > div { flex: 1 1 auto; width: 50%; min-width: 280px; margin: 0; padding: 0; background-color: var(--bg); -webkit-box-shadow: inset 0px 23px 25px -25px var(--border-alt); -moz-box-shadow: inset 0px 23px 25px -25px var(--border-alt); box-shadow: inset 0px 23px 25px -25px var(--border-alt); }
 
