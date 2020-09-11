@@ -361,7 +361,7 @@ nav li .button { display: block; }
 /* Default / Desktop / Firefox */
 .album-player { display: flex; flex-wrap: wrap; padding: 0 40px; justify-content: space-evenly; flex-direction: row-reverse; align-items: center; max-width: var(--max-width); margin: auto; }
 
-.album-player > div { margin: 20px; }
+.album-player > div { margin: 20px 0; }
 
 audio { margin: 0; width: 100%; }
 
@@ -395,9 +395,9 @@ audio { margin: 0; width: 100%; }
 
 .plItem { position: relative; }
 
-.plTitle { left: 75px; overflow: hidden; position: absolute; right: 65px; text-overflow: ellipsis; top: 0; white-space: nowrap; font-weight: bold; padding-right: 10px; }
+.plTitle { left: 40px; overflow: hidden; position: absolute; right: 65px; text-overflow: ellipsis; top: 0; white-space: nowrap; font-weight: bold; padding-right: 10px; }
 
-.plNum { padding-left: 21px; width: 65px; }
+.plNum { padding-left: 20px; width: 20px; }
 
 .plLength { padding-left: 21px; position: absolute; right: 21px; top: 0; }
 
@@ -437,9 +437,9 @@ a[id^="btn"]::-moz-focus-inner { border: 0; padding: 0; }
 
 .track-picker:nth-child(even) { flex-direction: row-reverse; background-color: var(--accent2); text-align: right; }
 
-.track-picker:nth-child(even) .button { background-color: var(--accent2); color: var(--fg); }
+.track-picker:nth-child(even) .button { background-color: var(--accent2); }
 
-.track-picker:nth-child(even) .button:hover { background-color: var(--accent1); color: var(--bg); }
+.track-picker:nth-child(even) .button:hover { background-color: var(--accent1); }
 
 .track-picker:nth-child(even) > div > h2, .track-picker:nth-child(even) > div a, .track-picker:nth-child(even) > div p { text-align: right; }
 
