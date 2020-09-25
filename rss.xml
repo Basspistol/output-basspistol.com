@@ -6,7 +6,7 @@
     <atom:link href="https://basspistol.com/rss.xml" rel="self" type="application/rss+xml" />
     <link>https://basspistol.com</link>
     <description>The Outernational Music Syndicate. Established in 2010</description>
-    <lastBuildDate>Fri, 25 Sep 2020 12:46:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2020 12:59:26 +0000</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -34,9 +34,9 @@
   
       <item>
         <title>Unmet Dependencies</title>
-        <link>https://basspistol.com/releases/unmet-dependencies/?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Unmet-Dependencies</link>
+        <link>https://setto.basspistol.com/unmet-dependencies/#play?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Unmet-Dependencies</link>
         <guid isPermaLink="true">https://basspistol.com/releases/unmet-dependencies/</guid>
-        <description> &lt;img src=&quot;https://basspistol.com/images/posts/final-pingnucover1220x1200.jpg&quot; /&gt; &lt;br /&gt;Proprietary tools, consultancies, remote labor... The reality in the digital industry is as hard to cope with as it is building software in Haskell... </description>
+        <description> &lt;img src=&quot;https://basspistol.com/images/posts/final-pingnucover1220x1200.jpg&quot; /&gt; &lt;br /&gt;Proprietary tools, consultancies, remote labor... The reality in the digital industry is as hard to cope with as it is building software in Haskell... &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/releases/unmet-dependencies/&quot;&gt;https://basspistol.com/releases/unmet-dependencies/&lt;/a&gt;</description>
         <category>Hi-Lights</category>
         <author>info@basspistol.com (Basspistol)</author>
         <pubDate>Sun, 02 Aug 2020 05:00:00 +0000</pubDate>
@@ -84,7 +84,7 @@ Open your mind, open the source!</itunes:summary>
   
       <item>
         <title>K'as-tu fait de nous?</title>
-        <link>https://shop.basspistol.com/album/satoshi-mon-ami/?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=K'as-tu-fait-de-nous?</link>
+        <link>https://shop.basspistol.com/album/satoshi-mon-ami/#play?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=K'as-tu-fait-de-nous?</link>
         <guid isPermaLink="true">https://basspistol.com/releases/kas-tu-fait-de-nous/</guid>
         <description> &lt;img src=&quot;https://basspistol.com/assets/img/2018-setto-single-003-reve_de_toi-117bpm_sqaure_FINAL.jpg&quot; /&gt; &lt;br /&gt;Satoshi Mon Ami EP, out now! &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/releases/kas-tu-fait-de-nous/&quot;&gt;https://basspistol.com/releases/kas-tu-fait-de-nous/&lt;/a&gt;</description>
         <category>Hi-Lights</category>
