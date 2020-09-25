@@ -1,8 +1,8 @@
 {
 	"version": 3,
-	"file": "noscripts-20200925.css",
+	"file": "noscripts-20200925-r1.css",
 	"sources": [
-		"noscripts-20200925.scss",
+		"noscripts-20200925-r1.scss",
 		"_sass/libs/_vars.scss",
 		"_sass/libs/_reset.scss",
 		"_sass/libs/_animations.scss",

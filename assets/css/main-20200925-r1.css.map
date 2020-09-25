@@ -1,8 +1,8 @@
 {
 	"version": 3,
-	"file": "main-20200925.css",
+	"file": "main-20200925-r1.css",
 	"sources": [
-		"main-20200925.scss",
+		"main-20200925-r1.scss",
 		"_sass/libs/_vars.scss",
 		"_sass/libs/_reset.scss",
 		"_sass/libs/_animations.scss",
