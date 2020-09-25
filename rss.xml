@@ -6,7 +6,7 @@
     <atom:link href="https://basspistol.com/rss.xml" rel="self" type="application/rss+xml" />
     <link>https://basspistol.com</link>
     <description>The Outernational Music Syndicate. Established in 2010</description>
-    <lastBuildDate>Fri, 25 Sep 2020 12:13:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2020 12:35:18 +0000</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -31,6 +31,24 @@
     <itunes:category text="Music">
     </itunes:category>
 
+  
+      <item>
+        <title>Unmet Dependencies</title>
+        <link>https://basspistol.com/releases/unmet-dependencies//?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Unmet-Dependencies</link>
+        <guid isPermaLink="true">https://basspistol.com/releases/unmet-dependencies/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/images/posts/final-pingnucover1220x1200.jpg&quot; /&gt; &lt;br /&gt;Proprietary tools, consultancies, remote labor... The reality in the digital industry is as hard to cope with as it is building software in Haskell... </description>
+        <category>Hi-Lights</category>
+        <author>info@basspistol.com (Basspistol)</author>
+        <pubDate>Sun, 02 Aug 2020 05:00:00 +0000</pubDate>
+        <itunes:author>info@basspistol.com</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:subtitle>Proprietary tools, consultancies, remote labor... The reality in the digital industry is as hard to cope with as it is building software in Haskell. Freedom is luxury, but also a burden.
+Open your mind, open the source!</itunes:subtitle>
+        <itunes:summary>Proprietary tools, consultancies, remote labor... The reality in the digital industry is as hard to cope with as it is building software in Haskell. Freedom is luxury, but also a burden.
+Open your mind, open the source!</itunes:summary>
+        <itunes:keywords>EP</itunes:keywords>
+        <itunes:image href="https://basspistol.com/images/posts/final-pingnucover1220x1200.jpg"/>
+      </item>
   
       <item>
         <title>Spark Master Tape</title>
@@ -126,22 +144,6 @@
         <itunes:summary>PORC, or what happens when you conglomerate Punk, Techno, Rock and Cumbia</itunes:summary>
         <itunes:keywords>spanish, post-pop, porc</itunes:keywords>
         <itunes:image href="https://basspistol.com/assets/img/trnx_losganglios.jpg"/>
-      </item>
-  
-      <item>
-        <title>Ratitude</title>
-        <link>https://youtu.be/TmAvt5p6f8g/?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Ratitude</link>
-        <guid isPermaLink="true">https://basspistol.com/highlights/phenomonalyyung/</guid>
-        <description> &lt;img src=&quot;https://basspistol.com/assets/img/clr.jpg&quot; /&gt; &lt;br /&gt;Codes, idioms and how the Yungster redefined the notion of a band. &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/highlights/phenomonalyyung/&quot;&gt;https://basspistol.com/highlights/phenomonalyyung/&lt;/a&gt;</description>
-        <category>Hi-Lights</category>
-        <author>info@basspistol.com (Basspistol)</author>
-        <pubDate>Tue, 11 Sep 2018 17:07:00 +0000</pubDate>
-        <itunes:author>info@basspistol.com</itunes:author>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:subtitle>Codes, idioms and how the Yungster redefined the notion of a band.</itunes:subtitle>
-        <itunes:summary>Codes, idioms and how the Yungster redefined the notion of a band.</itunes:summary>
-        <itunes:keywords>yung, lean, article</itunes:keywords>
-        <itunes:image href="https://basspistol.com/assets/img/clr.jpg"/>
       </item>
   
   </channel>

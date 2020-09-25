@@ -1,5 +1,5 @@
 {
-	"time": "2020-09-25T12:13:15+00:00",
+	"time": "2020-09-25T12:35:18+00:00",
 	"cloudcannon": {
 		"name": "cloudcannon-jekyll",
 		"version": "1.4.1"
@@ -11,7 +11,7 @@
 	"collections": {"posts": {"output": true,"permalink": "/:categories/:year/:month/:day/:title/"},"albums": {"output": false,"permalink": "/albums/:name/"},"tracks": {"output": true,"permalink": "/tracks/:path/"},"staff_members": {"_hide_content": null}},
 	
 	
-	"defaults": [{"scope": {"path": ""},"values": {"lang": "en"}},{"scope": {"path": "","type": "tracks"},"values": {"layout": "track","lang": "en","seo": {"type": "AudioObject"}}},{"scope": {"path": "","type": "albums"},"values": {"layout": "album","lang": "en","seo": {"type": "AudioObject"}}},{"scope": {"path": "","type": "pages"},"values": {"layout": "default","lang": "en","_options": {"image": {"width": 1024,"height": 720,"resize_style": "cover","uploads_dir": "/images"},"content": {"width": 720,"height": 720,"resize_style": "cover","uploads_dir": "/images"}}}},{"scope": {"path": "","type": "posts"},"values": {"layout": "post","lang": "en","permalink": "/:categories/:slug/","_options": {"image": {"width": 1024,"height": 720,"resize_style": "cover","uploads_dir": "/images"},"content": {"width": 720,"height": 720,"resize_style": "cover","uploads_dir": "/images"}}}}],
+	"defaults": [{"scope": {"path": ""},"values": {"lang": "en"}},{"scope": {"path": "","type": "tracks"},"values": {"layout": "track","lang": "en","seo": {"type": "AudioObject"}}},{"scope": {"path": "","type": "albums"},"values": {"layout": "album","lang": "en","seo": {"type": "AudioObject"}}},{"scope": {"path": "","type": "pages"},"values": {"layout": "default","lang": "en","_options": {"image": {"width": 1024,"height": 720,"resize_style": "cover","uploads_dir": "/images/pages"},"content": {"width": 720,"height": 720,"resize_style": "cover","uploads_dir": "/images/pages"}}}},{"scope": {"path": "","type": "posts"},"values": {"layout": "post","lang": "en","permalink": "/:categories/:slug/","_options": {"image": {"width": 1024,"height": 720,"resize_style": "cover","uploads_dir": "/images/posts"},"content": {"width": 720,"height": 720,"resize_style": "cover","uploads_dir": "/images/posts"}}}}],
 	
 	
 	
