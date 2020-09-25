@@ -6,7 +6,7 @@
     <atom:link href="https://basspistol.com/rss.xml" rel="self" type="application/rss+xml" />
     <link>https://basspistol.com</link>
     <description>The Outernational Music Syndicate. Established in 2010</description>
-    <lastBuildDate>Fri, 25 Sep 2020 11:17:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2020 11:19:38 +0000</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -25,7 +25,7 @@
       <itunes:name>Basspistol</itunes:name>
       <itunes:email>info@basspitol.com</itunes:email>
     </itunes:owner>
-    <managingEditor>Basspistol <info@basspistol.com></managingEditor>
+    <managingEditor>Basspistol info@basspistol.com</managingEditor>
     <copyright>Anti-Copyright 2018 Basspistol</copyright>
     <itunes:subtitle>Basspistol</itunes:subtitle>
     <itunes:category text="Music">
