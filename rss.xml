@@ -6,7 +6,7 @@
     <atom:link href="https://basspistol.com/rss.xml" rel="self" type="application/rss+xml" />
     <link>https://basspistol.com</link>
     <description>The Outernational Music Syndicate. Established in 2010</description>
-    <lastBuildDate>Wed, 14 Oct 2020 09:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2020 12:05:55 +0000</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -31,6 +31,22 @@
     <itunes:category text="Music">
     </itunes:category>
 
+  
+      <item>
+        <title>Independent in 2020</title>
+        <link>https://nxt.basspistol.org/apps/forms/gH92FwA3doHiBHf6?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Independent-in-2020</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/independent-in-2020/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/images/posts/william-warby-qjdm9e4miwo-unsplash.jpg&quot; /&gt; &lt;br /&gt;Basspistol was founded in 2010 with the idealistic vision of enabling creative independence without compromises. How does it looks 10 years later? &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/highlights/independent-in-2020/&quot;&gt;https://basspistol.com/highlights/independent-in-2020/&lt;/a&gt;</description>
+        <category>Hi-Lights</category>
+        <author>info@basspistol.com (Basspistol)</author>
+        <pubDate>Wed, 14 Oct 2020 07:07:00 +0000</pubDate>
+        <itunes:author>info@basspistol.com</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:subtitle>Basspistol was founded in 2010 with the idealistic vision of enabling creative independence without compromises. How does it looks 10 years later?</itunes:subtitle>
+        <itunes:summary>Basspistol was founded in 2010 with the idealistic vision of enabling creative independence without compromises. How does it looks 10 years later?</itunes:summary>
+        <itunes:keywords></itunes:keywords>
+        <itunes:image href="https://basspistol.com/images/posts/william-warby-qjdm9e4miwo-unsplash.jpg"/>
+      </item>
   
       <item>
         <title>Unmet Dependencies</title>
@@ -128,22 +144,6 @@ Open your mind, open the source!</itunes:summary>
         <itunes:summary>Intergalactic tradition finally back in our dimension.</itunes:summary>
         <itunes:keywords>acid, december</itunes:keywords>
         <itunes:image href="https://basspistol.com/assets/img/aciddecember2018.jpg"/>
-      </item>
-  
-      <item>
-        <title>Los Ganglios</title>
-        <link>http://losganglios.com/videos/?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Los-Ganglios</link>
-        <guid isPermaLink="true">https://basspistol.com/highlights/losganglios/</guid>
-        <description> &lt;img src=&quot;https://basspistol.com/assets/img/trnx_losganglios.jpg&quot; /&gt; &lt;br /&gt;PORC, or what happens when you conglomerate Punk, Techno, Rock and Cumbia &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/highlights/losganglios/&quot;&gt;https://basspistol.com/highlights/losganglios/&lt;/a&gt;</description>
-        <category>Hi-Lights</category>
-        <author>info@basspistol.com (Basspistol)</author>
-        <pubDate>Fri, 05 Oct 2018 17:07:00 +0000</pubDate>
-        <itunes:author>info@basspistol.com</itunes:author>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:subtitle>PORC, or what happens when you conglomerate Punk, Techno, Rock and Cumbia</itunes:subtitle>
-        <itunes:summary>PORC, or what happens when you conglomerate Punk, Techno, Rock and Cumbia</itunes:summary>
-        <itunes:keywords>spanish, post-pop, porc</itunes:keywords>
-        <itunes:image href="https://basspistol.com/assets/img/trnx_losganglios.jpg"/>
       </item>
   
   </channel>

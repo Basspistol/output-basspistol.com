@@ -225,7 +225,7 @@ a:hover { color: var(--accent1); text-decoration-style: wavy; text-decoration-co
 
 .smaller { border-radius: 30px; width: 30px; height: 30px; line-height: 30px; font-size: 18px; margin: 10px 10px 10px 0; }
 
-#author { flex: 0 0 280px; margin: 20px; }
+#author { flex: 0 0 280px; margin: 0; }
 
 #author .date { font-size: .85em; }
 
