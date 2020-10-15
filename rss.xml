@@ -6,7 +6,7 @@
     <atom:link href="https://basspistol.com/rss.xml" rel="self" type="application/rss+xml" />
     <link>https://basspistol.com</link>
     <description>The Outernational Music Syndicate. Established in 2010</description>
-    <lastBuildDate>Thu, 15 Oct 2020 15:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2020 15:51:03 +0000</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -34,7 +34,7 @@
   
       <item>
         <title>Independent in 2020</title>
-        <link>https://nxt.basspistol.org/apps/forms/gH92FwA3doHiBHf6?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Independent-in-2020</link>
+        <link>{"url"=>"https://nxt.basspistol.org/apps/forms/gH92FwA3doHiBHf6", "buttontext"=>"👀 Access survey"}?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Independent-in-2020</link>
         <guid isPermaLink="true">https://basspistol.com/highlights/independent-in-2020/</guid>
         <description> &lt;img src=&quot;https://basspistol.com/images/posts/william-warby-qjdm9e4miwo-unsplash.jpg&quot; /&gt; &lt;br /&gt;Basspistol was founded in 2010 with the idealistic vision of enabling creative independence without compromises. How does it looks 10 years later? &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/highlights/independent-in-2020/&quot;&gt;https://basspistol.com/highlights/independent-in-2020/&lt;/a&gt;</description>
         <category>Hi-Lights</category>
@@ -50,7 +50,7 @@
   
       <item>
         <title>Unmet Dependencies</title>
-        <link>https://setto.basspistol.com/unmet-dependencies/#play?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Unmet-Dependencies</link>
+        <link>{"url"=>"https://setto.basspistol.com/unmet-dependencies/#play", "buttontext"=>"👀 Go to source"}?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Unmet-Dependencies</link>
         <guid isPermaLink="true">https://basspistol.com/releases/unmet-dependencies/</guid>
         <description> &lt;img src=&quot;https://basspistol.com/images/posts/final-pingnucover1220x1200.jpg&quot; /&gt; &lt;br /&gt;Proprietary tools, consultancies, remote labor... The reality in the digital industry is as hard to cope with as it is building software in Haskell... &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/releases/unmet-dependencies/&quot;&gt;https://basspistol.com/releases/unmet-dependencies/&lt;/a&gt;</description>
         <category>Hi-Lights</category>
@@ -68,7 +68,7 @@ Open your mind, open the source!</itunes:summary>
   
       <item>
         <title>Spark Master Tape</title>
-        <link>https://smt.xxx/?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Spark-Master-Tape</link>
+        <link>{"url"=>"https://smt.xxx/"}?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Spark-Master-Tape</link>
         <guid isPermaLink="true">https://basspistol.com/highlights/spark-master-tape/</guid>
         <description> &lt;img src=&quot;https://basspistol.com/assets/img/Screenshot-at-2019-04-02-17-42-40.png&quot; /&gt; &lt;br /&gt;Paperplattunes and the uncertain future of free publications implicating links to data in a semi-regulated data-market is kinda uncertain #SWOUP &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/highlights/spark-master-tape/&quot;&gt;https://basspistol.com/highlights/spark-master-tape/&lt;/a&gt;</description>
         <category>Hi-Lights</category>
@@ -84,7 +84,7 @@ Open your mind, open the source!</itunes:summary>
   
       <item>
         <title>Darkweb</title>
-        <link>https://setto.basspistol.com/darkweb/?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Darkweb</link>
+        <link>{"url"=>"https://setto.basspistol.com/darkweb/"}?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Darkweb</link>
         <guid isPermaLink="true">https://basspistol.com/releases/darkweb/</guid>
         <description> &lt;img src=&quot;https://basspistol.com/assets/img/coverartDarkweb_setto.jpg&quot; /&gt; &lt;br /&gt;What if there was another space within cyberspace? What if there was a place the strange could call a home? &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/releases/darkweb/&quot;&gt;https://basspistol.com/releases/darkweb/&lt;/a&gt;</description>
         <category>Hi-Lights</category>
@@ -100,7 +100,7 @@ Open your mind, open the source!</itunes:summary>
   
       <item>
         <title>K'as-tu fait de nous?</title>
-        <link>https://shop.basspistol.com/album/satoshi-mon-ami/#play?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=K'as-tu-fait-de-nous?</link>
+        <link>{"url"=>"https://shop.basspistol.com/album/satoshi-mon-ami/#play"}?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=K'as-tu-fait-de-nous?</link>
         <guid isPermaLink="true">https://basspistol.com/releases/kas-tu-fait-de-nous/</guid>
         <description> &lt;img src=&quot;https://basspistol.com/assets/img/2018-setto-single-003-reve_de_toi-117bpm_sqaure_FINAL.jpg&quot; /&gt; &lt;br /&gt;Satoshi Mon Ami EP, out now! &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/releases/kas-tu-fait-de-nous/&quot;&gt;https://basspistol.com/releases/kas-tu-fait-de-nous/&lt;/a&gt;</description>
         <category>Hi-Lights</category>
@@ -116,7 +116,7 @@ Open your mind, open the source!</itunes:summary>
   
       <item>
         <title>Waiting Game</title>
-        <link>https://sakrecoer.com/waitinggame/?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Waiting-Game</link>
+        <link>{"url"=>"https://sakrecoer.com/waitinggame/"}?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Waiting-Game</link>
         <guid isPermaLink="true">https://basspistol.com/releases/waitinggame/</guid>
         <description> &lt;img src=&quot;https://basspistol.com/assets/img/waitinggame.jpg&quot; /&gt; &lt;br /&gt;Sakrecoer Sells out! &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/releases/waitinggame/&quot;&gt;https://basspistol.com/releases/waitinggame/&lt;/a&gt;</description>
         <category>Hi-Lights</category>
@@ -132,7 +132,7 @@ Open your mind, open the source!</itunes:summary>
   
       <item>
         <title>Acid December 2018</title>
-        <link>http://acid.datapop.se/?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Acid-December-2018</link>
+        <link>{"url"=>"http://acid.datapop.se/"}?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Acid-December-2018</link>
         <guid isPermaLink="true">https://basspistol.com/highlights/aciddecember2018/</guid>
         <description> &lt;img src=&quot;https://basspistol.com/assets/img/aciddecember2018.jpg&quot; /&gt; &lt;br /&gt;Intergalactic tradition finally back in our dimension. &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/highlights/aciddecember2018/&quot;&gt;https://basspistol.com/highlights/aciddecember2018/&lt;/a&gt;</description>
         <category>Hi-Lights</category>
