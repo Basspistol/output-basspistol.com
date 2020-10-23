@@ -6,7 +6,7 @@
     <atom:link href="https://basspistol.com/rss.xml" rel="self" type="application/rss+xml" />
     <link>https://basspistol.com</link>
     <description>The Outernational Music Syndicate. Established in 2010</description>
-    <lastBuildDate>Thu, 22 Oct 2020 19:07:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2020 13:56:24 +0000</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -31,6 +31,22 @@
     <itunes:category text="Music">
     </itunes:category>
 
+  
+      <item>
+        <title>Streaming to the masses</title>
+        <link>{"url"=>"https://audius.streamlink.to/welcometomainnet", "buttontext"=>"you comming?"}?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Streaming-to-the-masses</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/streaming-to-the-masses/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/images/posts/markus-spiske--cpu-nljxie-unsplash.jpg&quot; /&gt; &lt;br /&gt;Most musicians carry a dream. In the beginning of the new millennium internet had an intrinsic promise that spoke directly to that dream: to libera... &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/highlights/streaming-to-the-masses/&quot;&gt;https://basspistol.com/highlights/streaming-to-the-masses/&lt;/a&gt;</description>
+        <category>Hi-Lights</category>
+        <author>info@basspistol.com (Basspistol)</author>
+        <pubDate>Fri, 23 Oct 2020 13:07:00 +0000</pubDate>
+        <itunes:author>info@basspistol.com</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:subtitle>Most musicians carry a dream. In the beginning of the new millennium internet had an intrinsic promise that spoke directly to that dream: to liberate the market from the middle-hands.</itunes:subtitle>
+        <itunes:summary>Most musicians carry a dream. In the beginning of the new millennium internet had an intrinsic promise that spoke directly to that dream: to liberate the market from the middle-hands.</itunes:summary>
+        <itunes:keywords>article</itunes:keywords>
+        <itunes:image href="https://basspistol.com/images/posts/markus-spiske--cpu-nljxie-unsplash.jpg"/>
+      </item>
   
       <item>
         <title>Independent in 2020</title>
@@ -128,22 +144,6 @@ Open your mind, open the source!</itunes:summary>
         <itunes:summary>Sakrecoer Sells out!</itunes:summary>
         <itunes:keywords>internal, album</itunes:keywords>
         <itunes:image href="https://basspistol.com/assets/img/waitinggame.jpg"/>
-      </item>
-  
-      <item>
-        <title>Acid December 2018</title>
-        <link>{"url"=>"http://acid.datapop.se/"}?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Acid-December-2018</link>
-        <guid isPermaLink="true">https://basspistol.com/highlights/aciddecember2018/</guid>
-        <description> &lt;img src=&quot;https://basspistol.com/assets/img/aciddecember2018.jpg&quot; /&gt; &lt;br /&gt;Intergalactic tradition finally back in our dimension. &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/highlights/aciddecember2018/&quot;&gt;https://basspistol.com/highlights/aciddecember2018/&lt;/a&gt;</description>
-        <category>Hi-Lights</category>
-        <author>info@basspistol.com (Basspistol)</author>
-        <pubDate>Wed, 05 Dec 2018 17:07:00 +0000</pubDate>
-        <itunes:author>info@basspistol.com</itunes:author>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:subtitle>Intergalactic tradition finally back in our dimension.</itunes:subtitle>
-        <itunes:summary>Intergalactic tradition finally back in our dimension.</itunes:summary>
-        <itunes:keywords>acid, december</itunes:keywords>
-        <itunes:image href="https://basspistol.com/assets/img/aciddecember2018.jpg"/>
       </item>
   
   </channel>

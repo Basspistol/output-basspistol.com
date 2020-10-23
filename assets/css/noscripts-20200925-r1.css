@@ -95,7 +95,7 @@ body { height: 100vh; width: 100%; font-family: "Poppins", "Arial", "Helvetica",
 
 .hero .imagecontainer { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-image: url("../img/vignette.svg"); background-size: 960px; background-repeat: repeat-x; background-position: bottom; z-index: 1; }
 
-.hero .imagecontainer h4 { width: 90vw; /* height: auto; */ /* min-height: 100px; */ line-height: 1.011em; letter-spacing: -0em; color: var(--bg); font-size: 15vw; display: inline; opacity: 1; border-radius: var(--border-radius); position: absolute; bottom: 0; transform: rotate(-3deg); overflow: hidden; background: -webkit-linear-gradient(90deg, var(--bg) 0%, var(--bg-alt) 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; filter: blur(1px); }
+.hero .imagecontainer h4 { width: 90vw; /* height: auto; */ /* min-height: 100px; */ line-height: 1.011em; letter-spacing: -0em; color: var(--bg); font-size: 15vw; display: inline; opacity: 1; border-radius: var(--border-radius); position: absolute; bottom: 0; transform: rotate(-3deg); overflow: hidden; background: -webkit-linear-gradient(90deg, var(--bg) 25%, var(--fg-alt) 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; filter: blur(1px); }
 
 .hero .splash { background-color: transparent; display: flex; flex-wrap: wrap; padding: 40px; align-items: flex-start; max-width: var(--max-width); margin: auto; }
 
@@ -234,6 +234,14 @@ a:hover { color: var(--accent1); text-decoration-style: wavy; text-decoration-co
 .info { padding: 40px; margin: auto; }
 
 .info .info-pages { padding-top: 40px; max-width: var(--max-width); margin: auto; }
+
+.info .info-pages .container img { margin-left: auto; margin-right: auto; width: 100%; max-width: 600px; height: auto; display: block; }
+
+.info .info-pages .container h6 { font-size: 0.8em; text-align: center; }
+
+.info .info-pages .container blockquote { font-weight: 700; border-left: 3px dotted var(--fg); padding-left: 40px; }
+
+.info .info-pages .container ul { list-style-type: circle; padding-left: 40px; }
 
 .info p { margin: 20px 0; }
 
