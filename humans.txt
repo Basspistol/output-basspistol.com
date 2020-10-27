@@ -12,7 +12,7 @@
 
 
 /* SITE */
-	Last update: 2020/10/26
+	Last update: 2020/10/27
 	Language: English
 	Doctype: HTML5
 	Standards: HTML5, CSS3
