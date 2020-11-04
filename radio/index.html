@@ -38,7 +38,7 @@
 <title>Basspistol Libre Radio | Basspistol</title>
 <meta name="title" content="Basspistol Libre Radio | Basspistol" />
 <meta name="description" content="Basspistol Radio Station! 777% without commercials! RobotDJ-sets and live interventions! This is the sound of freedom." />
-<meta name="dc.date.modified" scheme="ISO8601" content="2020-11-04T15:49:56+00:00" />
+<meta name="dc.date.modified" scheme="ISO8601" content="2020-11-04T16:24:26+00:00" />
 <meta name="robots" content="index" />
 
 <link rel="canonical" href="https://basspistol.com/radio/" />
@@ -73,7 +73,7 @@
 <meta property="og:url" content="https://basspistol.com/radio/" />
 <meta property="og:site_name" content="Basspistol" />
 <meta property="og:type" content="webpage" />
-<meta property="article:published_time" content="2020-11-04T15:49:56+00:00" />
+<meta property="article:published_time" content="2020-11-04T16:24:26+00:00" />
 <meta property="og:image" content="https://basspistol.com/assets/vid/radio.jpg" />
 <!-- Twitter Card -->
 
@@ -142,267 +142,318 @@
 <script src="../assets/js/jquery-3.5.1.min.js"></script>
 <script type="text/javascript">
   function getData() {
-    $.getJSON('https://radio.basspistol.com/status-json.xsl', function(json) {
-        output = "<p>" + "<span style='font-size:14px;'>Now Playing:</span> " + "<br/>";
-        output += "<strong>" + json.icestats.source.title + "</strong></p>";
-        output += "<p style='font-size:14px;'>" + json.icestats.source.listeners + " peers are listening in MP3 <br />";
-        document.getElementById("radioPlaceholder").innerHTML=output;
-      });
+    $.getJSON('https://radio.basspistol.com/status-json.xsl', function (json) {
+      output = "<h4>Now Playing: </h4>";
+      output += "<h3>" + json.icestats.source.title + "</h3>";
+      output += "<p style='font-size:14px;'>" + json.icestats.source.listeners + " peers are listening<br />";
+      document.getElementById("radioPlaceholder").innerHTML = output;
+    });
   }
   setInterval(getData, 7000);
 
-  $(function() {
-      getData();
+  $(function () {
+    getData();
   });
 </script>
 <!-- Banner -->
 
 
 <div id="trackArt">
-<section>
-  <div class="coverartwrapper">
-    <div class="coverartwrapped" id="coverart" style="background-image: url(/assets/vid/radio.jpg);"></div>
-  </div>
-  <div class="playbutton hideWhenNoJS">
-  <a id="mu_pause" class="button">🎶 Play!</a>
-  </div>
-  
+  <section>
+    <div class="coverartwrapper">
+      <div class="coverartwrapped" id="coverart" style="background-image: url(/assets/vid/radio.jpg);"></div>
+    </div>
+    <div class="playbutton hideWhenNoJS">
+      <a id="mu_pause" class="button">🎶 Play!</a>
+    </div>
 
-  
-</p>
-
-</section>
+  </section>
 </div>
 <!-- Content -->
 <div id="trackInfo">
-<section style="padding-right: 40px;">
-  <h1>Basspistol Libre Radio</h1>
-  <p>Basspistol Radio Station! 777% without commercials! RobotDJ-sets and live interventions! This is the sound of freedom.</p>
-  <div id="radioPlaceholder"></div> 
-  <p><strong><span id="tracktime"></span></strong><br /></p>
-  <p>To enjoy the stream in your favorite player <a target="_blank" rel="noopener noreferrer" href='https://radio.basspistol.com/radio.mp3.m3u'>click here</a></p>
-  <p><strong>Questions about the playlist? Requests? Want to submit tracks? Chat with us!<br /><br /></strong></p>
-  <h2 style="text-align:left">Featured on the Radio</h2>
-  <p>This is the list of all the generous artists making this radio possible. Some of them simply have no crib on the internet. If you know that they now have a URL, if you somehow find a missing name or if you are featured on this list but no longer wish to be, please <a href="/chat/#read">conact us ASAP.</a> Also feel free to contact us if you think your music would fit in the radio!</p>
-  <h3>
-  
-  
-  
-  <a href="https://soundcloud.com/sickhopstudios" target="_blank" rel="noopener">#SickHop#SoloCut</a> -
-  
-  
-  
-  <a href="http://6ummy6oy.bandcamp.com/" target="_blank" rel="noopener">6ummy 6oy</a> -
-  
-  
-  
-  Acid Burn & Zero Cola -
-  
-  
-  
-  <a href="https://acidrussian.bandcamp.com" target="_blank" rel="noopener">Acid Russian</a> -
-  
-  
-  
-  <a href="https://dellarge.com/" target="_blank" rel="noopener">Alex Dellarge</a> -
-  
-  
-  
-  <a href="https://rskpmusic.bandcamp.com" target="_blank" rel="noopener">Alligator 427</a> -
-  
-  
-  
-  <a href="https://rskpmusic.bandcamp.com/" target="_blank" rel="noopener">Baatar</a> -
-  
-  
-  
-  <a href="https://rskpmusic.bandcamp.com/" target="_blank" rel="noopener">Baatar & LK de l'Hotel Moscou</a> -
-  
-  
-  
-  <a href="https://soundcloud.com/gazt" target="_blank" rel="noopener">Baka Hakuzin</a> -
-  
-  
-  
-  Basspistoleros -
-  
-  
-  
-  <a href="https://soundcloud.com/bombgad" target="_blank" rel="noopener">Bombgad</a> -
-  
-  
-  
-  <a href="https://fraglebay.tumblr.com" target="_blank" rel="noopener">Budget Scifi From FragleBay</a> -
-  
-  
-  
-  <a href="https://claybullet.bandcamp.com" target="_blank" rel="noopener">Clay Bullet</a> -
-  
-  
-  
-  <a href="https://soundcloud.com/dj-reaganomics" target="_blank" rel="noopener">DJ reaganomics</a> -
-  
-  
-  
-  <a href="https://soundcloud.com/dj-reaganomics" target="_blank" rel="noopener">DJ reaganomics</a> -
-  
-  
-  
-  Dr. Powerplant -
-  
-  
-  
-  <a href="http://www.tikov.com" target="_blank" rel="noopener">Dr. Tikov</a> -
-  
-  
-  
-  <a href="https://soundcloud.com/ekoteknik" target="_blank" rel="noopener">Ekoteknik</a> -
-  
-  
-  
-  <a href="https://soundcloud.com/finsta1" target="_blank" rel="noopener">Finsta</a> -
-  
-  
-  
-  <a href="https://frankyfresco.bandcamp.com/" target="_blank" rel="noopener">Franky Fresco</a> -
-  
-  
-  
-  <a href="https://soundcloud.com/hugoball" target="_blank" rel="noopener">Hugo Ball</a> -
-  
-  
-  
-  <a href="https://journeestandard.bandcamp.com" target="_blank" rel="noopener">Journee Standard</a> -
-  
-  
-  
-  <a href="https://jovanioccomy.bandcamp.com" target="_blank" rel="noopener">Jovani Occomy</a> -
-  
-  
-  
-  <a href="https://www.louigiverona.com/" target="_blank" rel="noopener">Louigi Verona</a> -
-  
-  
-  
-  <a href="https://music.lukaprincic.si" target="_blank" rel="noopener">Luka Prinčič</a> -
-  
-  
-  
-  <a href="https://makalaxtrm.bandcamp.com/" target="_blank" rel="noopener">Makala</a> -
-  
-  
-  
-  Malmö Werewolf -
-  
-  
-  
-  <a href="https://www.mans1.ch" target="_blank" rel="noopener">Mans1</a> -
-  
-  
-  
-  Max + Bo -
-  
-  
-  
-  Mazouni -
-  
-  
-  
-  Moelodin -
-  
-  
-  
-  <a href="https://soundcloud.com/njursvikt-swe" target="_blank" rel="noopener">Njursvikt</a> -
-  
-  
-  
-  <a href="https://paxnion.basspistol.com/" target="_blank" rel="noopener">Panyxd Hilton</a> -
-  
-  
-  
-  <a href="https://pauvrecoude.bandcamp.com" target="_blank" rel="noopener">Pauvre Coude</a> -
-  
-  
-  
-  <a href="https://perseid.se/" target="_blank" rel="noopener">Perseid</a> -
-  
-  
-  
-  <a href="https://rskpmusic.bandcamp.com/" target="_blank" rel="noopener">R$KP</a> -
-  
-  
-  
-  <a href="https://soundcloud.com/raptimusprime" target="_blank" rel="noopener">RaptimusPrime</a> -
-  
-  
-  
-  <a href="http://ristoid.net" target="_blank" rel="noopener">Risto Holopainen</a> -
-  
-  
-  
-  <a href="https://soundcloud.com/dubman-9" target="_blank" rel="noopener">Roots Dubman</a> -
-  
-  
-  
-  <a href="https://sakrecoer.com" target="_blank" rel="noopener">Sakrecoer</a> -
-  
-  
-  
-  <a href="https://soundcloud.com/sparkmastertape/" target="_blank" rel="noopener">Spark Master Tape</a> -
-  
-  
-  
-  <a href="https://staringatscreens.bandcamp.com" target="_blank" rel="noopener">Staring At Screens</a> -
-  
-  
-  
-  <a href="https://open.spotify.com/artist/6yZwmHOvoZpp9QqLkVsyEV" target="_blank" rel="noopener">Synapset</a> -
-  
-  
-  
-  <a href="https://trevorsomething.bandcamp.com" target="_blank" rel="noopener">Trevor Something</a> -
-  
-  
-  
-  <a href="https://ultramiedo.bandcamp.com" target="_blank" rel="noopener">Ultramiedo</a> -
-  
-  
-  
-  <a href="https://soundcloud.com/vulgarians" target="_blank" rel="noopener">Vulgarians</a> -
-  
-  
-  
-  <a href="https://soundcloud.com/wigsplitaz" target="_blank" rel="noopener">Wigsplitaz</a> -
-  
-  
-  
-  <a href="https://soundcloud.com/kantaromusic" target="_blank" rel="noopener">kantaro.</a> -
-  
-  
-  
-  <a href="https://paxnion.basspistol.com/" target="_blank" rel="noopener">paypal</a> -
-  
-  
-  
-  <a href="https://soundcloud.com/disko-som-disco" target="_blank" rel="noopener">som Disko</a> -
-  
-  
-  
-  <a href="https://ytcracker.bandcamp.com" target="_blank" rel="noopener">ytcracker</a> -
-  
-  
-  
-  <a href="https://setto.basspistol.com" target="_blank" rel="noopener">徒 setto セット</a> 
-  
-  
-  </h3>
-  <h2 style="text-align: left;">Chat with us!</h2>
-  <iframe src="https://kiwiirc.com/client/irc.freenode.net/?nick=carnalito|?&theme=cli#basspistol" style="border:0; width:100%; height:540px;"></iframe>
-  <p>You do not need to register to participate. This chat is public. <strong>We never ask you to submit credit-card (or any other payment information) nor personal information.</strong> It is provided by kiwi via freenode. Read the privacy policy of <a target="_blank" rel="noopener" href="https://kiwiirc.com/privacy">Kiwi</a> and <a target="_blank" rel="noopener" href="https://freenode.net/policies">Freenode</a><br />Matrix user? <a href="https://matrix.to/#/!DfJWlToHApOTIocqbz:matrix.org?via=matrix.org" target="_blank" rel="noopener">Click here</a></p>
+  <section>
+    <h1>Basspistol Libre Radio</h1>
+    <p>Basspistol Radio Station! 777% without commercials! RobotDJ-sets and live interventions! This is the sound of freedom. To enjoy the stream in your favorite player <a target="_blank" rel="noopener noreferrer"
+        href='https://radio.basspistol.com/radio.mp3.m3u'>click here</a></p>
 
-  
+    <div id="radioPlaceholder"></div>
+    <p><strong><span id="tracktime"></span></strong></p>
+    
+    <p><strong>Bellow is the list of all the generous artists making this radio possible.</strong> Some of them simply have no crib on the
+      internet. If you know that they now have a URL, if you somehow find a missing name or if you are featured on this
+      list but no longer wish to be, please <a href="/chat/#read">conact us ASAP.</a> Also feel free to contact us if
+      you think your music would fit in the radio!</p>
+    <h3>
+      
+      
+      
+      <a href="https://soundcloud.com/sickhopstudios" target="_blank" rel="noopener">#SickHop#SoloCut</a>
+      -
+      
+      
+      
+      <a href="http://6ummy6oy.bandcamp.com/" target="_blank" rel="noopener">6ummy 6oy</a>
+      -
+      
+      
+      
+      Acid Burn & Zero Cola -
+      
+      
+      
+      <a href="https://acidrussian.bandcamp.com" target="_blank" rel="noopener">Acid Russian</a>
+      -
+      
+      
+      
+      <a href="https://dellarge.com/" target="_blank" rel="noopener">Alex Dellarge</a>
+      -
+      
+      
+      
+      <a href="https://rskpmusic.bandcamp.com" target="_blank" rel="noopener">Alligator 427</a>
+      -
+      
+      
+      
+      <a href="https://rskpmusic.bandcamp.com/" target="_blank" rel="noopener">Baatar</a>
+      -
+      
+      
+      
+      <a href="https://rskpmusic.bandcamp.com/" target="_blank" rel="noopener">Baatar & LK de l'Hotel Moscou</a>
+      -
+      
+      
+      
+      <a href="https://soundcloud.com/gazt" target="_blank" rel="noopener">Baka Hakuzin</a>
+      -
+      
+      
+      
+      Basspistoleros -
+      
+      
+      
+      <a href="https://soundcloud.com/bombgad" target="_blank" rel="noopener">Bombgad</a>
+      -
+      
+      
+      
+      <a href="https://fraglebay.tumblr.com" target="_blank" rel="noopener">Budget Scifi From FragleBay</a>
+      -
+      
+      
+      
+      <a href="https://claybullet.bandcamp.com" target="_blank" rel="noopener">Clay Bullet</a>
+      -
+      
+      
+      
+      <a href="https://soundcloud.com/dj-reaganomics" target="_blank" rel="noopener">DJ reaganomics</a>
+      -
+      
+      
+      
+      <a href="https://soundcloud.com/dj-reaganomics" target="_blank" rel="noopener">DJ reaganomics</a>
+      -
+      
+      
+      
+      Dr. Powerplant -
+      
+      
+      
+      <a href="http://www.tikov.com" target="_blank" rel="noopener">Dr. Tikov</a>
+      -
+      
+      
+      
+      <a href="https://soundcloud.com/ekoteknik" target="_blank" rel="noopener">Ekoteknik</a>
+      -
+      
+      
+      
+      <a href="https://soundcloud.com/finsta1" target="_blank" rel="noopener">Finsta</a>
+      -
+      
+      
+      
+      <a href="https://frankyfresco.bandcamp.com/" target="_blank" rel="noopener">Franky Fresco</a>
+      -
+      
+      
+      
+      <a href="https://soundcloud.com/hugoball" target="_blank" rel="noopener">Hugo Ball</a>
+      -
+      
+      
+      
+      <a href="https://journeestandard.bandcamp.com" target="_blank" rel="noopener">Journee Standard</a>
+      -
+      
+      
+      
+      <a href="https://jovanioccomy.bandcamp.com" target="_blank" rel="noopener">Jovani Occomy</a>
+      -
+      
+      
+      
+      <a href="https://www.louigiverona.com/" target="_blank" rel="noopener">Louigi Verona</a>
+      -
+      
+      
+      
+      <a href="https://music.lukaprincic.si" target="_blank" rel="noopener">Luka Prinčič</a>
+      -
+      
+      
+      
+      <a href="https://makalaxtrm.bandcamp.com/" target="_blank" rel="noopener">Makala</a>
+      -
+      
+      
+      
+      Malmö Werewolf -
+      
+      
+      
+      <a href="https://www.mans1.ch" target="_blank" rel="noopener">Mans1</a>
+      -
+      
+      
+      
+      Max + Bo -
+      
+      
+      
+      Mazouni -
+      
+      
+      
+      Moelodin -
+      
+      
+      
+      <a href="https://soundcloud.com/njursvikt-swe" target="_blank" rel="noopener">Njursvikt</a>
+      -
+      
+      
+      
+      <a href="https://paxnion.basspistol.com/" target="_blank" rel="noopener">Panyxd Hilton</a>
+      -
+      
+      
+      
+      <a href="https://pauvrecoude.bandcamp.com" target="_blank" rel="noopener">Pauvre Coude</a>
+      -
+      
+      
+      
+      <a href="https://perseid.se/" target="_blank" rel="noopener">Perseid</a>
+      -
+      
+      
+      
+      <a href="https://rskpmusic.bandcamp.com/" target="_blank" rel="noopener">R$KP</a>
+      -
+      
+      
+      
+      <a href="https://soundcloud.com/raptimusprime" target="_blank" rel="noopener">RaptimusPrime</a>
+      -
+      
+      
+      
+      <a href="http://ristoid.net" target="_blank" rel="noopener">Risto Holopainen</a>
+      -
+      
+      
+      
+      <a href="https://soundcloud.com/dubman-9" target="_blank" rel="noopener">Roots Dubman</a>
+      -
+      
+      
+      
+      <a href="https://sakrecoer.com" target="_blank" rel="noopener">Sakrecoer</a>
+      -
+      
+      
+      
+      <a href="https://soundcloud.com/sparkmastertape/" target="_blank" rel="noopener">Spark Master Tape</a>
+      -
+      
+      
+      
+      <a href="https://staringatscreens.bandcamp.com" target="_blank" rel="noopener">Staring At Screens</a>
+      -
+      
+      
+      
+      <a href="https://open.spotify.com/artist/6yZwmHOvoZpp9QqLkVsyEV" target="_blank" rel="noopener">Synapset</a>
+      -
+      
+      
+      
+      <a href="https://trevorsomething.bandcamp.com" target="_blank" rel="noopener">Trevor Something</a>
+      -
+      
+      
+      
+      <a href="https://ultramiedo.bandcamp.com" target="_blank" rel="noopener">Ultramiedo</a>
+      -
+      
+      
+      
+      <a href="https://soundcloud.com/vulgarians" target="_blank" rel="noopener">Vulgarians</a>
+      -
+      
+      
+      
+      <a href="https://soundcloud.com/wigsplitaz" target="_blank" rel="noopener">Wigsplitaz</a>
+      -
+      
+      
+      
+      <a href="https://soundcloud.com/kantaromusic" target="_blank" rel="noopener">kantaro.</a>
+      -
+      
+      
+      
+      <a href="https://paxnion.basspistol.com/" target="_blank" rel="noopener">paypal</a>
+      -
+      
+      
+      
+      <a href="https://soundcloud.com/disko-som-disco" target="_blank" rel="noopener">som Disko</a>
+      -
+      
+      
+      
+      <a href="https://ytcracker.bandcamp.com" target="_blank" rel="noopener">ytcracker</a>
+      -
+      
+      
+      
+      <a href="https://setto.basspistol.com" target="_blank" rel="noopener">徒 setto セット</a>
+      
+      
+      
+    </h3>
+    <h2 style="text-align: left;">Chat with us!</h2>
+    <p><strong>Questions about the playlist? Requests? Want to submit tracks? Chat with us!<br /></strong>You do not
+      need to register to participate. This chat is public. <strong>We never ask you to submit credit-card (or any other
+        payment information) nor personal information.</strong> It is provided by kiwi via freenode. Read the privacy
+      policy of <a target="_blank" rel="noopener" href="https://kiwiirc.com/privacy">Kiwi</a> and <a target="_blank"
+        rel="noopener" href="https://freenode.net/policies">Freenode</a><br />Matrix user? <a
+        href="https://matrix.to/#/!DfJWlToHApOTIocqbz:matrix.org?via=matrix.org" target="_blank" rel="noopener">Click here</a></p>
+    <div>
+    <iframe
+      src="https://kiwiirc.com/client/irc.freenode.net/?nick=carnalito|?&theme=cli#basspistol"
+      style="border:0; width:100%; height:540px;"></iframe>
+    </div>
 
-  
+    
 
 <div id="author">
   <div class="bio">
@@ -421,18 +472,12 @@
     
   </div>
 </div>
+
+    <p class="noJSalbum"><a class="button" target="_blank" rel="noopener"
+        href="https://radio.basspistol.com/radio.mp3"><span class="fas fa-play"></span> Play!</a></p>
+
+  </section>
   
-  <p class="noJSalbum"><a class="button" target="_blank" rel="noopener" href="https://radio.basspistol.com/radio.mp3"><span  class="fas fa-play"></span> Play!</a></p>
-
-
-</section>
-
-
-
-
-
-</section>
-
 
   <section class="streambox">
   <h2>Support Basspistol</h2>
@@ -522,33 +567,27 @@
   </div>
 </footer>
 
-<!-- End Post Navigation -->
+  <!-- End Post Navigation -->
 </div>
 
 <!-- Audio player-->
 
-
-
 <div id="fixedPlayer" class="showplayer hideplayer">
   <div id="audiowrap">
-
     <div id="audio0">
       <audio controls autoplay preload="none" data-matomo-title="Basspistol Radio">
         <source src="https://radio.basspistol.com/radio.mp3" type="audio/mpeg" ontimeupdate='updateTrackTime(this);' />
         <h1>Your browser isn't ready for so much hotness. Use the download-link instead.</h1>.
       </audio>
     </div>
-
   </div>
   <div id="nowPlay">
 
-
-
   </div>
- </div>
-
+</div>
 
 <script type="text/javascript">
+
   function loadUrl(newLocation) {
     window.location = newLocation;
     return false;
@@ -565,23 +604,20 @@
     mu.currentTime = 0;
     loadUrl(".."); return false;
   });
-  mu.onplaying = function() {
+  mu.onplaying = function () {
     pauseButton.innerHTML = "Pause";
     fixedplayer.classList.remove("hideplayer");
-
-  }; 
+  };
 
   pauseButton.addEventListener("click", function () {
     if (mu.paused) {
       mu.play();
-
     }
     else {
       mu.pause();
-
-
     }
   });
+
   mu.addEventListener('playing', function () {
     spincover.classList.add("spinnit");
     spincover.classList.remove("paused");
@@ -601,9 +637,7 @@
     thecurrentSpan.innerHTML = formatted;
   });
 
-
 </script>
-
 <!-- Footer -->
 
 
