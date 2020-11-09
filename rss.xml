@@ -6,7 +6,7 @@
     <atom:link href="https://basspistol.com/rss.xml" rel="self" type="application/rss+xml" />
     <link>https://basspistol.com</link>
     <description>The Outernational Music Syndicate. Established in 2010</description>
-    <lastBuildDate>Mon, 09 Nov 2020 04:20:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2020 11:31:37 +0000</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -31,6 +31,22 @@
     <itunes:category text="Music">
     </itunes:category>
 
+  
+      <item>
+        <title>Introducing Basspistol PeerTube</title>
+        <link>https://v.basspistol.org?pk_campaign=rss</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/introducing-basspistol-peertube/</guid>
+        <description> &lt;img src=&quot;https://basspistol.com/images/posts/basspistol-peertube.jpg&quot; /&gt; &lt;br /&gt;Achieving data-sovereignty is a dirty job, but someone's got to do it. Introducing our next step: PeerTube &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/highlights/introducing-basspistol-peertube/&quot;&gt;https://basspistol.com/highlights/introducing-basspistol-peertube/&lt;/a&gt;</description>
+        <category>Hi-Lights</category>
+        <author>info@basspistol.com (Basspistol)</author>
+        <pubDate>Sun, 08 Nov 2020 22:20:00 +0000</pubDate>
+        <itunes:author>info@basspistol.com</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:subtitle>Achieving data-sovereignty is a dirty job, but someone's got to do it. Introducing our next step: PeerTube</itunes:subtitle>
+        <itunes:summary>Achieving data-sovereignty is a dirty job, but someone's got to do it. Introducing our next step: PeerTube</itunes:summary>
+        <itunes:keywords>AcitivyPub, internal, video, platform, indenpendence, sovereignity</itunes:keywords>
+        <itunes:image href="https://basspistol.com/images/posts/basspistol-peertube.jpg"/>
+      </item>
   
       <item>
         <title>Streaming to the masses</title>
@@ -128,22 +144,6 @@ Open your mind, open the source!</itunes:summary>
         <itunes:summary>Satoshi Mon Ami EP, out now!</itunes:summary>
         <itunes:keywords>internal, release, EP, cybersoul</itunes:keywords>
         <itunes:image href="https://basspistol.com/assets/img/2018-setto-single-003-reve_de_toi-117bpm_sqaure_FINAL.jpg"/>
-      </item>
-  
-      <item>
-        <title>Waiting Game</title>
-        <link>https://sakrecoer.com/waitinggame/?pk_campaign=rss</link>
-        <guid isPermaLink="true">https://basspistol.com/releases/waitinggame/</guid>
-        <description> &lt;img src=&quot;https://basspistol.com/assets/img/waitinggame.jpg&quot; /&gt; &lt;br /&gt;Sakrecoer Sells out! &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/releases/waitinggame/&quot;&gt;https://basspistol.com/releases/waitinggame/&lt;/a&gt;</description>
-        <category>Hi-Lights</category>
-        <author>info@basspistol.com (Basspistol)</author>
-        <pubDate>Fri, 18 Jan 2019 17:07:00 +0000</pubDate>
-        <itunes:author>info@basspistol.com</itunes:author>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:subtitle>Sakrecoer Sells out!</itunes:subtitle>
-        <itunes:summary>Sakrecoer Sells out!</itunes:summary>
-        <itunes:keywords>internal, album</itunes:keywords>
-        <itunes:image href="https://basspistol.com/assets/img/waitinggame.jpg"/>
       </item>
   
   </channel>
