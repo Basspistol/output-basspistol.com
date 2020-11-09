@@ -6,7 +6,7 @@
     <atom:link href="https://basspistol.com/rss.xml" rel="self" type="application/rss+xml" />
     <link>https://basspistol.com</link>
     <description>The Outernational Music Syndicate. Established in 2010</description>
-    <lastBuildDate>Mon, 09 Nov 2020 11:35:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2020 12:09:00 +0000</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -34,9 +34,9 @@
   
       <item>
         <title>Introducing Basspistol PeerTube</title>
-        <link>https://v.basspistol.org?pk_campaign=rss</link>
+        <link>https://basspistol.com/highlights/introducing-basspistol-peertube/?pk_campaign=rss</link>
         <guid isPermaLink="true">https://basspistol.com/highlights/introducing-basspistol-peertube/</guid>
-        <description> &lt;img src=&quot;https://basspistol.com/images/posts/basspistol-peertube.jpg&quot; /&gt; &lt;br /&gt;Achieving data-sovereignty is a dirty job, but someone's got to do it. Introducing our next step: PeerTube &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/highlights/introducing-basspistol-peertube/&quot;&gt;https://basspistol.com/highlights/introducing-basspistol-peertube/&lt;/a&gt;</description>
+        <description>Achieving data-sovereignty is a dirty job, but someone's got to do it. Introducing our next step: PeerTube</description>
         <category>Hi-Lights</category>
         <author>info@basspistol.com (Basspistol)</author>
         <pubDate>Sun, 08 Nov 2020 21:20:00 +0000</pubDate>
@@ -50,9 +50,9 @@
   
       <item>
         <title>Streaming to the masses</title>
-        <link>https://audius.streamlink.to/welcometomainnet?pk_campaign=rss</link>
+        <link>https://basspistol.com/highlights/streaming-to-the-masses/?pk_campaign=rss</link>
         <guid isPermaLink="true">https://basspistol.com/highlights/streaming-to-the-masses/</guid>
-        <description> &lt;img src=&quot;https://basspistol.com/images/posts/markus-spiske--cpu-nljxie-unsplash.jpg&quot; /&gt; &lt;br /&gt;Most musicians carry a dream. In the beginning of the new millennium internet had an intrinsic promise that spoke directly to that dream: to libera... &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/highlights/streaming-to-the-masses/&quot;&gt;https://basspistol.com/highlights/streaming-to-the-masses/&lt;/a&gt;</description>
+        <description>Most musicians carry a dream. In the beginning of the new millennium internet had an intrinsic promise that spoke directly to that dream: to liberate the market from the middle-hands.</description>
         <category>Hi-Lights</category>
         <author>info@basspistol.com (Basspistol)</author>
         <pubDate>Fri, 23 Oct 2020 13:07:00 +0000</pubDate>
@@ -66,9 +66,9 @@
   
       <item>
         <title>Independent in 2020</title>
-        <link>https://nxt.basspistol.org/apps/forms/gH92FwA3doHiBHf6?pk_campaign=rss</link>
+        <link>https://basspistol.com/highlights/independent-in-2020/?pk_campaign=rss</link>
         <guid isPermaLink="true">https://basspistol.com/highlights/independent-in-2020/</guid>
-        <description> &lt;img src=&quot;https://basspistol.com/images/posts/william-warby-qjdm9e4miwo-unsplash.jpg&quot; /&gt; &lt;br /&gt;Basspistol was founded in 2010 with the idealistic vision of enabling creative independence without compromises. How does it looks 10 years later? &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/highlights/independent-in-2020/&quot;&gt;https://basspistol.com/highlights/independent-in-2020/&lt;/a&gt;</description>
+        <description>Basspistol was founded in 2010 with the idealistic vision of enabling creative independence without compromises. How does it looks 10 years later?</description>
         <category>Hi-Lights</category>
         <author>info@basspistol.com (Basspistol)</author>
         <pubDate>Wed, 14 Oct 2020 07:07:00 +0000</pubDate>
@@ -82,16 +82,17 @@
   
       <item>
         <title>Unmet Dependencies</title>
-        <link>https://setto.basspistol.com/unmet-dependencies/#play?pk_campaign=rss</link>
+        <link>https://basspistol.com/releases/unmet-dependencies/?pk_campaign=rss</link>
         <guid isPermaLink="true">https://basspistol.com/releases/unmet-dependencies/</guid>
-        <description> &lt;img src=&quot;https://basspistol.com/images/posts/final-pingnucover1220x1200.jpg&quot; /&gt; &lt;br /&gt;Proprietary tools, consultancies, remote labor... The reality in the digital industry is as hard to cope with as it is building software in Haskell... &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/releases/unmet-dependencies/&quot;&gt;https://basspistol.com/releases/unmet-dependencies/&lt;/a&gt;</description>
+        <description>Proprietary tools, consultancies, remote labor... The reality in the digital industry is as hard to cope with as it is building software in Haskell. Freedom is luxury, but also a burden.
+Open your ...</description>
         <category>Hi-Lights</category>
         <author>info@basspistol.com (Basspistol)</author>
         <pubDate>Sun, 02 Aug 2020 05:00:00 +0000</pubDate>
         <itunes:author>info@basspistol.com</itunes:author>
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle>Proprietary tools, consultancies, remote labor... The reality in the digital industry is as hard to cope with as it is building software in Haskell. Freedom is luxury, but also a burden.
-Open your mind, open the source!</itunes:subtitle>
+Open your ...</itunes:subtitle>
         <itunes:summary>Proprietary tools, consultancies, remote labor... The reality in the digital industry is as hard to cope with as it is building software in Haskell. Freedom is luxury, but also a burden.
 Open your mind, open the source!</itunes:summary>
         <itunes:keywords>EP</itunes:keywords>
@@ -100,9 +101,9 @@ Open your mind, open the source!</itunes:summary>
   
       <item>
         <title>Spark Master Tape</title>
-        <link>https://smt.xxx/?pk_campaign=rss</link>
+        <link>https://basspistol.com/highlights/spark-master-tape/?pk_campaign=rss</link>
         <guid isPermaLink="true">https://basspistol.com/highlights/spark-master-tape/</guid>
-        <description> &lt;img src=&quot;https://basspistol.com/assets/img/Screenshot-at-2019-04-02-17-42-40.png&quot; /&gt; &lt;br /&gt;Paperplattunes and the uncertain future of free publications implicating links to data in a semi-regulated data-market is kinda uncertain #SWOUP &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/highlights/spark-master-tape/&quot;&gt;https://basspistol.com/highlights/spark-master-tape/&lt;/a&gt;</description>
+        <description>Paperplattunes and the uncertain future of free publications implicating links to data in a semi-regulated data-market is kinda uncertain #SWOUP</description>
         <category>Hi-Lights</category>
         <author>info@basspistol.com (Basspistol)</author>
         <pubDate>Tue, 02 Apr 2019 17:07:00 +0000</pubDate>
@@ -116,9 +117,9 @@ Open your mind, open the source!</itunes:summary>
   
       <item>
         <title>Darkweb</title>
-        <link>https://setto.basspistol.com/darkweb/?pk_campaign=rss</link>
+        <link>https://basspistol.com/releases/darkweb/?pk_campaign=rss</link>
         <guid isPermaLink="true">https://basspistol.com/releases/darkweb/</guid>
-        <description> &lt;img src=&quot;https://basspistol.com/assets/img/coverartDarkweb_setto.jpg&quot; /&gt; &lt;br /&gt;What if there was another space within cyberspace? What if there was a place the strange could call a home? &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/releases/darkweb/&quot;&gt;https://basspistol.com/releases/darkweb/&lt;/a&gt;</description>
+        <description>What if there was another space within cyberspace? What if there was a place the strange could call a home?</description>
         <category>Hi-Lights</category>
         <author>info@basspistol.com (Basspistol)</author>
         <pubDate>Fri, 08 Feb 2019 23:00:00 +0000</pubDate>
@@ -132,9 +133,9 @@ Open your mind, open the source!</itunes:summary>
   
       <item>
         <title>K'as-tu fait de nous?</title>
-        <link>https://shop.basspistol.com/album/satoshi-mon-ami/#play?pk_campaign=rss</link>
+        <link>https://basspistol.com/releases/kas-tu-fait-de-nous/?pk_campaign=rss</link>
         <guid isPermaLink="true">https://basspistol.com/releases/kas-tu-fait-de-nous/</guid>
-        <description> &lt;img src=&quot;https://basspistol.com/assets/img/2018-setto-single-003-reve_de_toi-117bpm_sqaure_FINAL.jpg&quot; /&gt; &lt;br /&gt;Satoshi Mon Ami EP, out now! &lt;br /&gt;Full article on: &lt;a href=&quot;https://basspistol.com/releases/kas-tu-fait-de-nous/&quot;&gt;https://basspistol.com/releases/kas-tu-fait-de-nous/&lt;/a&gt;</description>
+        <description>Satoshi Mon Ami EP, out now!</description>
         <category>Hi-Lights</category>
         <author>info@basspistol.com (Basspistol)</author>
         <pubDate>Sun, 20 Jan 2019 17:07:00 +0000</pubDate>
