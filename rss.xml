@@ -6,7 +6,7 @@
     <atom:link href="https://basspistol.com/rss.xml" rel="self" type="application/rss+xml" />
     <link>https://basspistol.com</link>
     <description>The Outernational Music Syndicate. Established in 2010</description>
-    <lastBuildDate>Fri, 13 Nov 2020 14:44:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2020 14:54:29 +0000</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -31,6 +31,22 @@
     <itunes:category text="Music">
     </itunes:category>
 
+  
+      <item>
+        <title>Let's make sandwiches on the Glance-Floor</title>
+        <link>https://basspistol.com/highlights/lets-make-sandwiches-on-the-glance-floor/?pk_campaign=rss</link>
+        <guid isPermaLink="true">https://basspistol.com/highlights/lets-make-sandwiches-on-the-glance-floor/</guid>
+        <description>Confined again? No Problem: stay home and have fun! Following the success of the first edition and seeing how the server survived, we are forced to reiterate this damage happy ritual!</description>
+        <category>Hi-Lights</category>
+        <author>info@basspistol.com (Basspistol)</author>
+        <pubDate>Fri, 13 Nov 2020 14:20:00 +0000</pubDate>
+        <itunes:author>info@basspistol.com</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:subtitle>Confined again? No Problem: stay home and have fun! Following the success of the first edition and seeing how the server survived, we are forced to reiterate this damage happy ritual!</itunes:subtitle>
+        <itunes:summary>Confined again? No Problem: stay home and have fun! Following the success of the first edition and seeing how the server survived, we are forced to reiterate this damage happy ritual!</itunes:summary>
+        <itunes:keywords>Party, Virtual Night Club, indenpendence, Glance-Floor</itunes:keywords>
+        <itunes:image href="https://basspistol.com/images/posts/glancefloor-1.gif"/>
+      </item>
   
       <item>
         <title>Introducing Basspistol PeerTube</title>
@@ -129,22 +145,6 @@ Open your mind, open the source!</itunes:summary>
         <itunes:summary>What if there was another space within cyberspace? What if there was a place the strange could call a home?</itunes:summary>
         <itunes:keywords>internal, release, EP, cybersoul</itunes:keywords>
         <itunes:image href="https://basspistol.com/assets/img/coverartDarkweb_setto.jpg"/>
-      </item>
-  
-      <item>
-        <title>K'as-tu fait de nous?</title>
-        <link>https://basspistol.com/releases/kas-tu-fait-de-nous/?pk_campaign=rss</link>
-        <guid isPermaLink="true">https://basspistol.com/releases/kas-tu-fait-de-nous/</guid>
-        <description>Satoshi Mon Ami EP, out now!</description>
-        <category>Hi-Lights</category>
-        <author>info@basspistol.com (Basspistol)</author>
-        <pubDate>Sun, 20 Jan 2019 17:07:00 +0000</pubDate>
-        <itunes:author>info@basspistol.com</itunes:author>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:subtitle>Satoshi Mon Ami EP, out now!</itunes:subtitle>
-        <itunes:summary>Satoshi Mon Ami EP, out now!</itunes:summary>
-        <itunes:keywords>internal, release, EP, cybersoul</itunes:keywords>
-        <itunes:image href="https://basspistol.com/assets/img/2018-setto-single-003-reve_de_toi-117bpm_sqaure_FINAL.jpg"/>
       </item>
   
   </channel>
