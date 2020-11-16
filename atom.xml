@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text" xml:lang="en">Basspistol</title>
+  <subtitle>The Outernational Music Syndicate. Established in 2010</subtitle>
+  <link type="application/atom+xml" href="https://basspistol.com/atom.xml" rel="self"/>
+  <link type="text/html" href="https://basspistol.com/" rel="alternate"/>
+  <updated>2020-11-16T23:26:20+00:00</updated>
+  <id>https://basspistol.com/atom.xml</id>
+  <author>
+    <name>Basspistol</name>
+    <email>info@basspistol.com</email>
+  </author>
+  <rights>Copyleft 2020 Basspistol</rights>
+  <icon>https://basspistol.com/siteicon.png</icon>
+  <logo>https://basspistol.com/siteicon.png</logo>
+
+  
+  <entry>
+    <title>Let's make sandwiches on the Glance-Floor</title>
+    <link href="https://basspistol.com/highlights/lets-make-sandwiches-on-the-glance-floor/"/>
+    <published>2020-11-13T14:20:00+00:00</published>
+    <updated>2020-11-13T14:54:26+00:00</updated>
+    <id>https://basspistol.com/highlights/lets-make-sandwiches-on-the-glance-floor/</id>
+    <content type="html">On the 27th of November we’re having a little virtual party with a Glance-Floor and everything cool one has come to expect from a virtual night club. We’ll be leveraging the sweet Mozilla hubs and of course the Radio ...</content>
+    <summary>Confined again? No Problem: stay home and have fun! Following the success of the first edition and seeing how the server survived, we are forced to reiterate this damage happy ritual!</summary>
+    <author>
+
+
+      <name>Set Sakrecoer</name>
+      <email>set@basspistol.com</email>
+      <uri>https://sakrecoer.com</uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Introducing Basspistol PeerTube</title>
+    <link href="https://basspistol.com/highlights/introducing-basspistol-peertube/"/>
+    <published>2020-11-08T21:20:00+00:00</published>
+    <updated>2020-11-09T11:35:05+00:00</updated>
+    <id>https://basspistol.com/highlights/introducing-basspistol-peertube/</id>
+    <content type="html">Basspistol as a project has always been about independence and auto-sufficiency. And it may seem like a strange quest in a world where publication is more or less free of charge. But is it freedom that we are offered?...</content>
+    <summary>Achieving data-sovereignty is a dirty job, but someone's got to do it. Introducing our next step: PeerTube</summary>
+    <author>
+
+
+      <name>Set Sakrecoer</name>
+      <email>set@basspistol.com</email>
+      <uri>https://sakrecoer.com</uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Streaming to the masses</title>
+    <link href="https://basspistol.com/highlights/streaming-to-the-masses/"/>
+    <published>2020-10-23T13:07:00+00:00</published>
+    <updated>2020-11-09T00:44:17+00:00</updated>
+    <id>https://basspistol.com/highlights/streaming-to-the-masses/</id>
+    <content type="html">What happened to our dreams?
+
+It’s a fairly common story. It wasn’t a dream but an illusion! We thought that the music market operated differently from other markets. We thought our new tools would be a remedy to a so...</content>
+    <summary>Most musicians carry a dream. In the beginning of the new millennium internet had an intrinsic promise that spoke directly to that dream: to liberate the market from the middle-hands.</summary>
+    <author>
+
+
+      <name>Set Sakrecoer</name>
+      <email>set@basspistol.com</email>
+      <uri>https://sakrecoer.com</uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Independent in 2020</title>
+    <link href="https://basspistol.com/highlights/independent-in-2020/"/>
+    <published>2020-10-14T07:07:00+00:00</published>
+    <updated>2020-11-09T00:44:17+00:00</updated>
+    <id>https://basspistol.com/highlights/independent-in-2020/</id>
+    <content type="html">Basspistol was founded in 2010 with the idealistic vision of enabling creative independence without compromising individual freedom with traditional, alienating and cumbersome contracts while still providing a framewo...</content>
+    <summary>Basspistol was founded in 2010 with the idealistic vision of enabling creative independence without compromises. How does it looks 10 years later?</summary>
+    <author>
+
+
+      <name>Set Sakrecoer</name>
+      <email>set@basspistol.com</email>
+      <uri>https://sakrecoer.com</uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Unmet Dependencies</title>
+    <link href="https://basspistol.com/releases/unmet-dependencies/"/>
+    <published>2020-08-02T05:00:00+00:00</published>
+    <updated>2020-10-15T15:50:59+00:00</updated>
+    <id>https://basspistol.com/releases/unmet-dependencies/</id>
+    <content type="html">Oldies, but goldies
+
+It is through these 2 tracks that 徒 setto セット came to be. Cybersoul bangers of rank; weird and wonderful mixes between autotuned R’n’B, boombass and dope geekery. Blurring the lines of cooldom and...</content>
+    <summary>Proprietary tools, consultancies, remote labor... The reality in the digital industry is as hard to cope with as it is building software in Haskell. Freedom is luxury, but also a burden.
+Open your mind, open the source!</summary>
+    <author>
+
+
+      <name>bassBot</name>
+      <email>info+web@basspistol.com</email>
+      <uri></uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Spark Master Tape</title>
+    <link href="https://basspistol.com/highlights/spark-master-tape/"/>
+    <published>2019-04-02T17:07:00+00:00</published>
+    <updated>2020-10-15T15:50:59+00:00</updated>
+    <id>https://basspistol.com/highlights/spark-master-tape/</id>
+    <content type="html">Quis Custodiet Ipsos Custodes?
+
+The Paperplattune!
+
+Since the future of free publications implicating links to data in a semi-regulated data-market is kinda uncertain, i was looking at alternatives for the webzurfs. D...</content>
+    <summary>Paperplattunes and the uncertain future of free publications implicating links to data in a semi-regulated data-market is kinda uncertain #SWOUP</summary>
+    <author>
+
+
+      <name>bassBot</name>
+      <email>info+web@basspistol.com</email>
+      <uri></uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Darkweb</title>
+    <link href="https://basspistol.com/releases/darkweb/"/>
+    <published>2019-02-08T23:00:00+00:00</published>
+    <updated>2020-10-15T15:50:59+00:00</updated>
+    <id>https://basspistol.com/releases/darkweb/</id>
+    <content type="html">徒 Setto セット is at it again! This time with an amazing cover art illustration by the designer of the basspistol logo: Mattias “Ritarn” Lindström
+
+While the A-side offers a sweet balade about taking social initiatives a...</content>
+    <summary>What if there was another space within cyberspace? What if there was a place the strange could call a home?</summary>
+    <author>
+
+
+      <name>bassBot</name>
+      <email>info+web@basspistol.com</email>
+      <uri></uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>K'as-tu fait de nous?</title>
+    <link href="https://basspistol.com/releases/kas-tu-fait-de-nous/"/>
+    <published>2019-01-20T17:07:00+00:00</published>
+    <updated>2020-10-15T15:50:59+00:00</updated>
+    <id>https://basspistol.com/releases/kas-tu-fait-de-nous/</id>
+    <content type="html">徒 Setto セット is releasing on basspistol in 2019! First out is the 2 track EP “Satoshi Mon Ami”.
+
+The 2 tracks of laid back cloud rap are tales of daily didigtal life-struggles. When day-to-day communication blurrs the ...</content>
+    <summary>Satoshi Mon Ami EP, out now!</summary>
+    <author>
+
+
+      <name>bassBot</name>
+      <email>info+web@basspistol.com</email>
+      <uri></uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Waiting Game</title>
+    <link href="https://basspistol.com/releases/waitinggame/"/>
+    <published>2019-01-18T17:07:00+00:00</published>
+    <updated>2020-10-15T15:50:59+00:00</updated>
+    <id>https://basspistol.com/releases/waitinggame/</id>
+    <content type="html">The shocking news this morning that Sakrecoer puts a record out on Spotofy and iFumes!
+
+Critics are mindblown by this sudden change of strategy.
+
+Sakrecoer responded quickly on the mesh-web:
+
+“Well, it’s not like you ...</content>
+    <summary>Sakrecoer Sells out!</summary>
+    <author>
+
+
+      <name>bassBot</name>
+      <email>info+web@basspistol.com</email>
+      <uri></uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Acid December 2018</title>
+    <link href="https://basspistol.com/highlights/aciddecember2018/"/>
+    <published>2018-12-05T17:07:00+00:00</published>
+    <updated>2020-10-15T15:50:59+00:00</updated>
+    <id>https://basspistol.com/highlights/aciddecember2018/</id>
+    <content type="html">Every now in then, our dimension aligns with a thousand year old intergalactic tradition called #AcidDecember. When this happens, musicians worldwide are compulsively submitting tracks to a mysterious email address. T...</content>
+    <summary>Intergalactic tradition finally back in our dimension.</summary>
+    <author>
+
+
+      <name>Set Sakrecoer</name>
+      <email>set@basspistol.com</email>
+      <uri>https://sakrecoer.com</uri>
+    </author>
+  </entry>
+  
+</feed>

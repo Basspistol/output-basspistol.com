@@ -1,35 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
-
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+    
   <channel>
     <title>Basspistol</title>
-    <atom:link href="https://basspistol.com/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://basspistol.com/atom.xml" rel="self" type="application/rss+xml" />
     <link>https://basspistol.com</link>
     <description>The Outernational Music Syndicate. Established in 2010</description>
-    <lastBuildDate>Mon, 16 Nov 2020 19:07:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2020 23:26:20 +0000</lastBuildDate>
     <language>en-US</language>
-    <sy:updatePeriod>hourly</sy:updatePeriod>
-    <sy:updateFrequency>1</sy:updateFrequency>
     <generator>https://jekyllrb.com/</generator>
-
     <image>
       <url>https://basspistol.com/siteicon.png</url>
       <title>Basspistol</title>
       <link>https://basspistol.com</link>
     </image> 
-    <itunes:summary><![CDATA[Rare contemporary music, Founded in 2010, Basspistol is the Outernational Music Syndicate]]></itunes:summary>
-    <itunes:author>info@basspistol.com</itunes:author>
-    <itunes:explicit>yes</itunes:explicit>
-    <itunes:image href="https://basspistol.com/assets/img/basspistol_est_2010_square_bluegreen.jpg" />
-    <itunes:owner>
-      <itunes:name>Basspistol</itunes:name>
-      <itunes:email>info@basspitol.com</itunes:email>
-    </itunes:owner>
     <managingEditor>info@basspistol.com (Basspistol)</managingEditor>
     <copyright>Anti-Copyright 2018 Basspistol</copyright>
-    <itunes:subtitle>Basspistol</itunes:subtitle>
-    <itunes:category text="Music">
-    </itunes:category>
+
 
   
       <item>
@@ -38,14 +25,13 @@
         <guid isPermaLink="true">https://basspistol.com/highlights/lets-make-sandwiches-on-the-glance-floor/</guid>
         <description>Confined again? No Problem: stay home and have fun! Following the success of the first edition and seeing how the server survived, we are forced to reiterate this damage happy ritual!</description>
         <category>Hi-Lights</category>
-        <author>info@basspistol.com (Basspistol)</author>
+        
+        
+        <dc:creator>Set Sakrecoer</dc:creator>
+        <author>set@basspistol.com (Set Sakrecoer)</author>
         <pubDate>Fri, 13 Nov 2020 14:20:00 +0000</pubDate>
-        <itunes:author>info@basspistol.com</itunes:author>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:subtitle>Confined again? No Problem: stay home and have fun! Following the success of the first edition and seeing how the server survived, we are forced to reiterate this damage happy ritual!</itunes:subtitle>
-        <itunes:summary>Confined again? No Problem: stay home and have fun! Following the success of the first edition and seeing how the server survived, we are forced to reiterate this damage happy ritual!</itunes:summary>
-        <itunes:keywords>Party, Virtual Night Club, indenpendence, Glance-Floor</itunes:keywords>
-        <itunes:image href="https://basspistol.com/images/posts/glancefloor-1.gif"/>
+        <media:thumbnail url="https://basspistol.com/images/posts/glancefloor-1.gif" width='480' height='327'></media:thumbnail>
+        <media:title type="pl ain">Let's make sandwiches on the Glance-Floor</media:title>
       </item>
   
       <item>
@@ -54,14 +40,13 @@
         <guid isPermaLink="true">https://basspistol.com/highlights/introducing-basspistol-peertube/</guid>
         <description>Achieving data-sovereignty is a dirty job, but someone's got to do it. Introducing our next step: PeerTube</description>
         <category>Hi-Lights</category>
-        <author>info@basspistol.com (Basspistol)</author>
+        
+        
+        <dc:creator>Set Sakrecoer</dc:creator>
+        <author>set@basspistol.com (Set Sakrecoer)</author>
         <pubDate>Sun, 08 Nov 2020 21:20:00 +0000</pubDate>
-        <itunes:author>info@basspistol.com</itunes:author>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:subtitle>Achieving data-sovereignty is a dirty job, but someone's got to do it. Introducing our next step: PeerTube</itunes:subtitle>
-        <itunes:summary>Achieving data-sovereignty is a dirty job, but someone's got to do it. Introducing our next step: PeerTube</itunes:summary>
-        <itunes:keywords>AcitivyPub, internal, video, platform, indenpendence, sovereignity</itunes:keywords>
-        <itunes:image href="https://basspistol.com/images/posts/basspistol-peertube.jpg"/>
+        <media:thumbnail url="https://basspistol.com/images/posts/basspistol-peertube.jpg" width='1200' height='640'></media:thumbnail>
+        <media:title type="pl ain">Introducing Basspistol PeerTube</media:title>
       </item>
   
       <item>
@@ -70,14 +55,13 @@
         <guid isPermaLink="true">https://basspistol.com/highlights/streaming-to-the-masses/</guid>
         <description>Most musicians carry a dream. In the beginning of the new millennium internet had an intrinsic promise that spoke directly to that dream: to liberate the market from the middle-hands.</description>
         <category>Hi-Lights</category>
-        <author>info@basspistol.com (Basspistol)</author>
+        
+        
+        <dc:creator>Set Sakrecoer</dc:creator>
+        <author>set@basspistol.com (Set Sakrecoer)</author>
         <pubDate>Fri, 23 Oct 2020 13:07:00 +0000</pubDate>
-        <itunes:author>info@basspistol.com</itunes:author>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:subtitle>Most musicians carry a dream. In the beginning of the new millennium internet had an intrinsic promise that spoke directly to that dream: to liberate the market from the middle-hands.</itunes:subtitle>
-        <itunes:summary>Most musicians carry a dream. In the beginning of the new millennium internet had an intrinsic promise that spoke directly to that dream: to liberate the market from the middle-hands.</itunes:summary>
-        <itunes:keywords>article</itunes:keywords>
-        <itunes:image href="https://basspistol.com/images/posts/markus-spiske--cpu-nljxie-unsplash.jpg"/>
+        <media:thumbnail url="https://basspistol.com/images/posts/markus-spiske--cpu-nljxie-unsplash.jpg" width='1080' height='720'></media:thumbnail>
+        <media:title type="pl ain">Streaming to the masses</media:title>
       </item>
   
       <item>
@@ -86,14 +70,13 @@
         <guid isPermaLink="true">https://basspistol.com/highlights/independent-in-2020/</guid>
         <description>Basspistol was founded in 2010 with the idealistic vision of enabling creative independence without compromises. How does it looks 10 years later?</description>
         <category>Hi-Lights</category>
-        <author>info@basspistol.com (Basspistol)</author>
+        
+        
+        <dc:creator>Set Sakrecoer</dc:creator>
+        <author>set@basspistol.com (Set Sakrecoer)</author>
         <pubDate>Wed, 14 Oct 2020 07:07:00 +0000</pubDate>
-        <itunes:author>info@basspistol.com</itunes:author>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:subtitle>Basspistol was founded in 2010 with the idealistic vision of enabling creative independence without compromises. How does it looks 10 years later?</itunes:subtitle>
-        <itunes:summary>Basspistol was founded in 2010 with the idealistic vision of enabling creative independence without compromises. How does it looks 10 years later?</itunes:summary>
-        <itunes:keywords></itunes:keywords>
-        <itunes:image href="https://basspistol.com/images/posts/william-warby-qjdm9e4miwo-unsplash.jpg"/>
+        <media:thumbnail url="https://basspistol.com/images/posts/william-warby-qjdm9e4miwo-unsplash.jpg" width='1278' height='720'></media:thumbnail>
+        <media:title type="pl ain">Independent in 2020</media:title>
       </item>
   
       <item>
@@ -103,16 +86,13 @@
         <description>Proprietary tools, consultancies, remote labor... The reality in the digital industry is as hard to cope with as it is building software in Haskell. Freedom is luxury, but also a burden.
 Open your ...</description>
         <category>Hi-Lights</category>
-        <author>info@basspistol.com (Basspistol)</author>
+        
+        
+        <dc:creator>bassBot</dc:creator>
+        <author>info+web@basspistol.com (bassBot)</author>
         <pubDate>Sun, 02 Aug 2020 05:00:00 +0000</pubDate>
-        <itunes:author>info@basspistol.com</itunes:author>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:subtitle>Proprietary tools, consultancies, remote labor... The reality in the digital industry is as hard to cope with as it is building software in Haskell. Freedom is luxury, but also a burden.
-Open your ...</itunes:subtitle>
-        <itunes:summary>Proprietary tools, consultancies, remote labor... The reality in the digital industry is as hard to cope with as it is building software in Haskell. Freedom is luxury, but also a burden.
-Open your mind, open the source!</itunes:summary>
-        <itunes:keywords>EP</itunes:keywords>
-        <itunes:image href="https://basspistol.com/images/posts/final-pingnucover1220x1200.jpg"/>
+        <media:thumbnail url="https://basspistol.com/images/posts/final-pingnucover1220x1200.jpg" width='1024' height='1024'></media:thumbnail>
+        <media:title type="pl ain">Unmet Dependencies</media:title>
       </item>
   
       <item>
@@ -121,14 +101,13 @@ Open your mind, open the source!</itunes:summary>
         <guid isPermaLink="true">https://basspistol.com/highlights/spark-master-tape/</guid>
         <description>Paperplattunes and the uncertain future of free publications implicating links to data in a semi-regulated data-market is kinda uncertain #SWOUP</description>
         <category>Hi-Lights</category>
-        <author>info@basspistol.com (Basspistol)</author>
+        
+        
+        <dc:creator>bassBot</dc:creator>
+        <author>info+web@basspistol.com (bassBot)</author>
         <pubDate>Tue, 02 Apr 2019 17:07:00 +0000</pubDate>
-        <itunes:author>info@basspistol.com</itunes:author>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:subtitle>Paperplattunes and the uncertain future of free publications implicating links to data in a semi-regulated data-market is kinda uncertain #SWOUP</itunes:subtitle>
-        <itunes:summary>Paperplattunes and the uncertain future of free publications implicating links to data in a semi-regulated data-market is kinda uncertain #SWOUP</itunes:summary>
-        <itunes:keywords>hackers, portofplatoon, SWOUP, cybersoul</itunes:keywords>
-        <itunes:image href="https://basspistol.com/assets/img/Screenshot-at-2019-04-02-17-42-40.png"/>
+        <media:thumbnail url="https://basspistol.com/assets/img/Screenshot-at-2019-04-02-17-42-40.png" width='960' height='604'></media:thumbnail>
+        <media:title type="pl ain">Spark Master Tape</media:title>
       </item>
   
       <item>
@@ -137,14 +116,13 @@ Open your mind, open the source!</itunes:summary>
         <guid isPermaLink="true">https://basspistol.com/releases/darkweb/</guid>
         <description>What if there was another space within cyberspace? What if there was a place the strange could call a home?</description>
         <category>Hi-Lights</category>
-        <author>info@basspistol.com (Basspistol)</author>
+        
+        
+        <dc:creator>bassBot</dc:creator>
+        <author>info+web@basspistol.com (bassBot)</author>
         <pubDate>Fri, 08 Feb 2019 23:00:00 +0000</pubDate>
-        <itunes:author>info@basspistol.com</itunes:author>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:subtitle>What if there was another space within cyberspace? What if there was a place the strange could call a home?</itunes:subtitle>
-        <itunes:summary>What if there was another space within cyberspace? What if there was a place the strange could call a home?</itunes:summary>
-        <itunes:keywords>internal, release, EP, cybersoul</itunes:keywords>
-        <itunes:image href="https://basspistol.com/assets/img/coverartDarkweb_setto.jpg"/>
+        <media:thumbnail url="https://basspistol.com/assets/img/coverartDarkweb_setto.jpg" width='1280' height='1280'></media:thumbnail>
+        <media:title type="pl ain">Darkweb</media:title>
       </item>
   
   </channel>
