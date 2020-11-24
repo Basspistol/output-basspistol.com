@@ -514,6 +514,8 @@ a[id^="btn"]::-moz-focus-inner { border: 0; padding: 0; }
 
 @media only screen and (max-width: 651px) { #cookie-notice p { text-align: center; margin: 40px 40px 20px 40px; } #cookie-notice .yes { margin: 20px 40px 40px 40px; } }
 
+#cookie-notice button { border: none; font-size: inherit; font-family: inherit; }
+
 .yes { flex: 0 0 250px; -moz-transition: all var(--anim-speed) ease-in-out; -webkit-transition: all var(--anim-speed) ease-in-out; -ms-transition: all var(--anim-speed) ease-in-out; transition: all var(--anim-speed) ease-in-out; text-align: center; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-attachment: scroll; background-image: linear-gradient(228deg, var(--accent1-alt), var(--accent2-alt)); background-origin: padding-box; background-clip: border-box; background-size: 400% 400%; -webkit-animation: backgroundBlink 2s ease infinite; -moz-animation: backgroundBlink 2s ease infinite; animation: backgroundBlink 2s ease infinite; margin: 40px 40px 40px 20px; }
 
 .yes:hover { -moz-transition: all var(--anim-speed) ease-in-out; -webkit-transition: all var(--anim-speed) ease-in-out; -ms-transition: all var(--anim-speed) ease-in-out; transition: all var(--anim-speed) ease-in-out; }
