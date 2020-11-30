@@ -4,7 +4,7 @@
   <subtitle>The Outernational Music Syndicate. Established in 2010</subtitle>
   <link type="application/atom+xml" href="https://basspistol.com/atom.xml" rel="self"/>
   <link type="text/html" href="https://basspistol.com/" rel="alternate"/>
-  <updated>2020-11-30T03:21:08+00:00</updated>
+  <updated>2020-11-30T06:01:09+00:00</updated>
   <id>https://basspistol.com/atom.xml</id>
   <author>
     <name>Basspistol</name>
@@ -14,6 +14,23 @@
   <icon>https://basspistol.com/siteicon.png</icon>
   <logo>https://basspistol.com/siteicon.png</logo>
 
+  
+  <entry>
+    <title>Yeah we take bitcoins</title>
+    <link href="https://basspistol.com/highlights/yeah-we-take-bitcoins/"/>
+    <published>2020-11-30T06:00:00+00:00</published>
+    <updated>2020-11-30T00:28:14+00:00</updated>
+    <id>https://basspistol.com/highlights/yeah-we-take-bitcoins/</id>
+    <content type="html">Without the good services of Alsenet.com there would be no Basspistol. Not in it’s current shape anyways. And today we’re proud to announce that they have blessed the Outernational Music Syndicate with the infrastruct...</content>
+    <summary>&quot;We can’t imagine to enter the Information Age without changing the fundamental and most used communication tool: Money&quot; – Bernard Lietaer</summary>
+    <author>
+
+
+      <name>Set Sakrecoer</name>
+      <email>set@basspistol.com</email>
+      <uri>https://sakrecoer.com</uri>
+    </author>
+  </entry>
   
   <entry>
     <title>Let's make sandwiches on the Glance-Floor</title>
@@ -184,23 +201,6 @@ Sakrecoer responded quickly on the mesh-web:
       <name>bassBot</name>
       <email>info+web@basspistol.com</email>
       <uri></uri>
-    </author>
-  </entry>
-  
-  <entry>
-    <title>Acid December 2018</title>
-    <link href="https://basspistol.com/highlights/aciddecember2018/"/>
-    <published>2018-12-05T17:07:00+00:00</published>
-    <updated>2020-10-15T15:50:59+00:00</updated>
-    <id>https://basspistol.com/highlights/aciddecember2018/</id>
-    <content type="html">Every now in then, our dimension aligns with a thousand year old intergalactic tradition called #AcidDecember. When this happens, musicians worldwide are compulsively submitting tracks to a mysterious email address. T...</content>
-    <summary>Intergalactic tradition finally back in our dimension.</summary>
-    <author>
-
-
-      <name>Set Sakrecoer</name>
-      <email>set@basspistol.com</email>
-      <uri>https://sakrecoer.com</uri>
     </author>
   </entry>
   
