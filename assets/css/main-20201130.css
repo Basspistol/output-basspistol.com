@@ -107,7 +107,7 @@ body { height: 100vh; width: 100%; font-family: "Poppins", "Arial", "Helvetica",
 
 .hero .imagecontainer { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-image: url("../img/vignette.svg"); background-size: 960px; background-repeat: repeat-x; background-position: bottom; z-index: 1; }
 
-.hero .imagecontainer h4 { width: 90vw; /* height: auto; */ /* min-height: 100px; */ line-height: 1.011em; letter-spacing: -0em; color: var(--bg); font-size: 15vw; display: inline; opacity: 1; border-radius: var(--border-radius); position: absolute; bottom: 0; transform: rotate(-3deg); overflow: hidden; background: -webkit-linear-gradient(90deg, var(--bg) 25%, var(--fg-alt) 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; filter: blur(1px); }
+.hero .imagecontainer h4 { width: 90vw; /* height: auto; */ /* min-height: 100px; */ line-height: 1.011em; letter-spacing: -0em; color: var(--bg); font-size: 15vw; display: inline; opacity: 1; border-radius: var(--border-radius); position: absolute; bottom: 0; transform: rotate(-3deg); overflow: hidden; background: -webkit-linear-gradient(90deg, var(--bg) 25%, var(--fg-alt) 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; filter: blur(2px); }
 
 .hero .splash { background-color: transparent; display: flex; flex-wrap: wrap; padding: 40px; align-items: flex-start; max-width: var(--max-width); margin: auto; }
 
@@ -572,18 +572,4 @@ a[id^="btn"]::-moz-focus-inner { border: 0; padding: 0; }
 
 @media only screen and (max-width: 769px) { .staff li .square-image { width: 70px; height: 70px; } }
 
-.logo, #sticky { filter: blur(0px); opacity: 1; background-color: var(--bg); }
-
-.blurredout { filter: blur(0px); opacity: 1; background-color: var(--bg); -webkit-transition: all var(--anim-speed) ease-in; -moz-transition: all var(--anim-speed) ease-in; -ms-transition: all var(--anim-speed) ease-in; transition: all var(--anim-speed) ease-in; }
-
-.hero { padding-top: 120px; }
-
-.player-wrap { display: none; }
-
-.noJSalbum { display: unset; flex: 0 1 400px; border-radius: var(--border-radius); width: 100%; }
-
-#fixed-player { display: unset; height: unset; }
-
-.hideWhenNoJS { display: none; }
-
-/*# sourceMappingURL=noscripts-20201109.css.map */
+/*# sourceMappingURL=main-20201130.css.map */
