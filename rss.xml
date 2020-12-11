@@ -6,7 +6,7 @@
     <atom:link href="https://basspistol.com/atom.xml" rel="self" type="application/rss+xml" />
     <link>https://basspistol.com</link>
     <description>The Outernational Music Syndicate. Established in 2010</description>
-    <lastBuildDate>Fri, 11 Dec 2020 06:01:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Dec 2020 10:12:54 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>https://jekyllrb.com/</generator>
     <image>
@@ -31,7 +31,7 @@
         <author>set@basspistol.com (Set Sakrecoer)</author>
         <pubDate>Mon, 30 Nov 2020 06:00:00 +0000</pubDate>
         <media:thumbnail url="https://basspistol.com/images/posts/bitcoinz.jpg" width='1144' height='720'></media:thumbnail>
-        <media:title type="pl ain">Yeah we take bitcoins</media:title>
+        <media:title type="plain">Yeah we take bitcoins</media:title>
       </item>
   
       <item>
@@ -46,7 +46,7 @@
         <author>set@basspistol.com (Set Sakrecoer)</author>
         <pubDate>Fri, 13 Nov 2020 14:20:00 +0000</pubDate>
         <media:thumbnail url="https://basspistol.com/images/posts/glancefloor-1.gif" width='480' height='327'></media:thumbnail>
-        <media:title type="pl ain">Let's make sandwiches on the Glance-Floor</media:title>
+        <media:title type="plain">Let's make sandwiches on the Glance-Floor</media:title>
       </item>
   
       <item>
@@ -61,7 +61,7 @@
         <author>set@basspistol.com (Set Sakrecoer)</author>
         <pubDate>Sun, 08 Nov 2020 21:20:00 +0000</pubDate>
         <media:thumbnail url="https://basspistol.com/images/posts/basspistol-peertube.jpg" width='1200' height='640'></media:thumbnail>
-        <media:title type="pl ain">Introducing Basspistol PeerTube</media:title>
+        <media:title type="plain">Introducing Basspistol PeerTube</media:title>
       </item>
   
       <item>
@@ -76,7 +76,7 @@
         <author>set@basspistol.com (Set Sakrecoer)</author>
         <pubDate>Fri, 23 Oct 2020 13:07:00 +0000</pubDate>
         <media:thumbnail url="https://basspistol.com/images/posts/markus-spiske--cpu-nljxie-unsplash.jpg" width='1080' height='720'></media:thumbnail>
-        <media:title type="pl ain">Streaming to the masses</media:title>
+        <media:title type="plain">Streaming to the masses</media:title>
       </item>
   
       <item>
@@ -91,7 +91,7 @@
         <author>set@basspistol.com (Set Sakrecoer)</author>
         <pubDate>Wed, 14 Oct 2020 07:07:00 +0000</pubDate>
         <media:thumbnail url="https://basspistol.com/images/posts/william-warby-qjdm9e4miwo-unsplash.jpg" width='1278' height='720'></media:thumbnail>
-        <media:title type="pl ain">Independent in 2020</media:title>
+        <media:title type="plain">Independent in 2020</media:title>
       </item>
   
       <item>
@@ -107,7 +107,7 @@ Open your ...</description>
         <author>info+web@basspistol.com (bassBot)</author>
         <pubDate>Sun, 02 Aug 2020 05:00:00 +0000</pubDate>
         <media:thumbnail url="https://basspistol.com/images/posts/final-pingnucover1220x1200.jpg" width='1024' height='1024'></media:thumbnail>
-        <media:title type="pl ain">Unmet Dependencies</media:title>
+        <media:title type="plain">Unmet Dependencies</media:title>
       </item>
   
       <item>
@@ -122,7 +122,7 @@ Open your ...</description>
         <author>info+web@basspistol.com (bassBot)</author>
         <pubDate>Tue, 02 Apr 2019 17:07:00 +0000</pubDate>
         <media:thumbnail url="https://basspistol.com/assets/img/Screenshot-at-2019-04-02-17-42-40.png" width='960' height='604'></media:thumbnail>
-        <media:title type="pl ain">Spark Master Tape</media:title>
+        <media:title type="plain">Spark Master Tape</media:title>
       </item>
   
   </channel>
